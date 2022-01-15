@@ -1,0 +1,26 @@
+Stage 3 Assignments
+
+1. Creation of FSx file system and assign it to two linux EC2 instances.
+
+
+2. RDS Creation 
+
+
+3. AuroraDB
+
+1. create vpc ( give your name ) 
+2. create two subnets a. public. b. private
+3. create aurora DB in a private subnet
+4. create ec2 instance IN  public subnet
+5. install your SQL developer tool sqlyog in instance created in step 4 ( public subnet)
+6. connect your database with this tool
+
+
+4. Load Balancer
+
+1. create two ec2 instances
+2. deploy web server on both of them
+3. deploy the same website on both of them 
+4. create a group that will contain both ec2 instances
+5. create a load balancer and connect the group 
+6 test the functionality 
