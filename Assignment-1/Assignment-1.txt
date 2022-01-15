@@ -1,0 +1,11 @@
+1. Calculate the pricing  for an Enterprise willing to launch a web site for its online marketing.   They require following Hardwares. They want to secure their daily transaction with the help of backups. Expectation is 1 TB of daily backups. They need to retain these daily backup for next complete one year. Their Production server will be running for 24X7 Envionment and Development server will be running 5 days a week for 10 hours daily.
+
+(i)  One production server where their web site will be running, with 4 cpus and 8 GB Ram and 5 TB of EBS storage.
+(ii) Calculate the storage of S3 as per their requirement
+
+(iii) One Development server for their developers having configuration 
+      2 cpus 4GB of RAM EBS storage 2TB
+      
+What you need to caculate ?
+(i) TCO with atleast 3 options selecting various types of pricing models in Mumbai region
+(ii) Perform the same calculation with  other region which have less TCO with respect to Mumbai Region

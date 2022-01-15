@@ -1,0 +1,17 @@
+﻿Your Estimate
+Service Type,Components,Region,Component Price,Service Price
+Amazon EC2 Service (Asia Pacific (Mumbai)),,,,$1822
+,Compute:,Asia Pacific (Mumbai),$0
+,EBS Volumes:,Asia Pacific (Mumbai),$798
+,EBS IOPS:,Asia Pacific (Mumbai),$0
+,EBS Throughput:,Asia Pacific (Mumbai),$0
+,EBS Snapshots:,Asia Pacific (Mumbai),$50
+,Reserved Instances (one-time fee):,Asia Pacific (Mumbai),$974
+Amazon S3 Service (Asia Pacific (Mumbai)),,,,$768
+,S3 Standard Storage:,Asia Pacific (Mumbai),$768
+AWS Support (Business),,,,$258.64
+,Support for all AWS services:,,$161.24
+,Support for Reserved Instances (one-time fee):,,$97.4
+,,Free Tier Discount:,,$-3.6
+,,Total One-Time Payment:,,$1071.4
+,,Total Monthly Payment:,,$1773.64
