@@ -1,5 +1,5 @@
 1. Objective type test will contain 40 questions.
 
-2. Assignment for AWS calculator
+2. Assignment for AWS calculator.
 
-3. Practical assignment 
+3. Practical assignment. 
