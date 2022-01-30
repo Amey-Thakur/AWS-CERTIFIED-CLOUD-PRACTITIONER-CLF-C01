@@ -51,7 +51,7 @@
  
  - Assignment 1 - [MCQ 40 Questions Test](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx)
  - Assignment 2 - [AWS Calculator](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx)
- - Assignment 3 - [EC2 Instance](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Instances.jpg) | [Launch Status](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Launch%20Status.jpg)
+ - Assignment 3 - [EC2 Instance](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Instances.jpg) | [Launch Status](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Launch%20Status.jpg) | **[YouTube Video](https://youtu.be/y-oACtu8djc)**
 
  >[STAGE 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-2)
  
@@ -86,7 +86,7 @@
   3. _AWS Global Infrastructure Overview_
   4. _AWS Cloud Security_
 
- - [x] [Stage 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) | [Score: 35](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201%20(Score%2035).png)
+ - [x] **[Stage 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) | [Score: 35](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201%20(Score%2035).png)**
  
  - Stage 2 assessment
  
@@ -94,7 +94,7 @@
   2. _Compute_
   3. _Storage_
  
- - [x] [Stage 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) | [Score: 40](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202%20(Score%2040).png)
+ - [x] **[Stage 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) | [Score: 40](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202%20(Score%2040).png)**
  
  - Stage 3 assessment
  
@@ -102,13 +102,13 @@
   2. _Cloud Architecture_
   3. _Automatic Scaling and Monitoring_
  
- - [x] [Stage 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) | [Score: 37](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203%20(Score%2037).png)
+ - [x] **[Stage 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) | [Score: 37](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203%20(Score%2037).png)**
  
  
  >**Module 2: AWS Cloud Final Assessment**
  
  - _The final assessment includes all the chapters covered in Stage 1, 2 and 3._
  
-  - [x] [AWS Cloud Final Assessment](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)
+  - [x] **[AWS Cloud Final Assessment](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)**
 
 
