@@ -51,11 +51,11 @@
  
  - Assignment 1 - [MCQ 40 Questions Test](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx)
  - Assignment 2 - [AWS Calculator](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx)
- - Assignment 3 - [EC2 Instance](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Instances.jpg) | [Launch Status](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Launch%20Status.jpg) | **[YouTube Video](https://youtu.be/y-oACtu8djc)**
+ - Assignment 3 - [EC2 Instance](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Instances.jpg) | [Launch Status](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Launch%20Status.jpg) | **[YouTube Video](https://youtu.be/y-oACtu8djc)** - **BONUS**
 
  >[STAGE 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-2)
  
- - Assignment 1 - [Amazon S3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx)
+ - Assignment 1 - [Amazon S3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) | [Website](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/Website.zip) | **[YouTube Video](https://youtu.be/CnM07Vg7pW8)** - **BONUS**
  - Assignment 2 - [Amazon Elastic Block Store - Volume](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx)
  - Assignment 3 - [Amazon Elastic Block Store - Check](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx)
  - Assignment 4 - [MCQ 40 Questions Test](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx)
