@@ -56,8 +56,8 @@
  >[STAGE 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-2)
  
  - Assignment 1 - [Amazon S3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) | [Website](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/Website.zip) | **[YouTube Video](https://youtu.be/CnM07Vg7pW8)** - **BONUS**
- - Assignment 2 - [Amazon Elastic Block Store - Volume](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx)
- - Assignment 3 - [Amazon Elastic Block Store - Check](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx)
+ - Assignment 2 - [Amazon Elastic Block Store - Volume](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
+ - Assignment 3 - [Amazon Elastic Block Store - Check](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
  - Assignment 4 - [MCQ 40 Questions Test](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx)
 
  >[STAGE 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-3)
