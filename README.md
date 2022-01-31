@@ -47,6 +47,8 @@
 
 ## Practicals
 
+ - [x] **AWS-CLF-C01 Assignments - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)**
+
  >[STAGE 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-1)
  
  - Assignment 1 - [MCQ 40 Questions Test](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx)
