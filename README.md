@@ -68,7 +68,7 @@
  - Assignment 1 - [Amazon EFS](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) | **[YouTube Video](https://youtu.be/jShMHcYju4Y)** - **BONUS**
  - Assignment 2 - [Amazon RDS](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) | SQL -  [Transactions](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/Transactions.sql) | **[YouTube Video](https://youtu.be/9Quw6uln1Zc)** - **BONUS**
  - Assignment 3 - [AuroraDB | VPC | RDS](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) | SQL -  [Transactions](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/Transactions.sql) | **[YouTube Video](https://youtu.be/EhV8I2ElVRk)** - **BONUS**
- - Assignment 4 - [Load Balancers | Target Groups](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | **[YouTube Video]()** - **BONUS**
+ - Assignment 4 - [Load Balancers | Target Groups](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | **[YouTube Video](https://youtu.be/3TIzIHqkvvU)** - **BONUS**
 
  >[FINAL ASSESSMENT](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Final%20Assessment)
  
