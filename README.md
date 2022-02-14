@@ -6,7 +6,6 @@
  - **AWS Certified Cloud Practitioner - [Exam Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/AWS%20Certified%20Cloud%20Practitioner%20Exam%20Guide.PDF)** 
   
 ## Books
-
  >Reference Books
 
  - [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/Anthony%20Sequeira%20%5BAnthony%20Sequeira%5D%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)%20Cert%20Guide%2C%20First%20Edition-Pearson%20IT%20Certification%20(2019).pdf) - _Anthony Sequeira_
@@ -26,6 +25,7 @@
  - [Storage EBS Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/09_Storage_EBS_Windows.pdf)
  - [Storage EBS Linux](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/10_Storage_EBS_Linux.pdf)
 
+
  >PPTs
  
  - Module 0 - [Course Introduction](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_00.pdf)
@@ -40,12 +40,10 @@
  - Module 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_09.pdf)
  - Module 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_10.pdf)
 
-
 ## Courses & Labs
 
  - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
  - [QwikLabs](https://www.qwiklabs.com)
-
 
 ## Practicals
 
@@ -75,7 +73,6 @@
  
  - [Assessment 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) - [Question Bank - 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/QuesBank-1.pdf) | [Answer Bank - 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/AnsBank-1.pdf)
  - [Assessment 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) - [Question Bank - 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/QuesBank-2.pdf) | [Answer Bank - 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/AnsBank-2.pdf)
-
 
 ## Honeywell - ICT Academy (Certification Course on Cloud)
 
@@ -108,9 +105,8 @@
  
  - [x] **[Stage 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) | [Score: 37](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203%20(Score%2037).png)**
  
- 
  >**Module 2: AWS Cloud Final Assessment**
  
  - _The final assessment includes all the chapters covered in Stage 1, 2 and 3._
  
-  - [x] **[AWS Cloud Final Assessment](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)**
+ - [x] **[AWS Cloud Final Assessment](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)**
