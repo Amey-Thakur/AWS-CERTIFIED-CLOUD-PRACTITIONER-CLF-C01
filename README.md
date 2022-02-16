@@ -15,15 +15,25 @@
 
 ## MEGA NOTES
  >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
+ 
  - MODULE 1 - [Cloud Concepts](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%201_%20Cloud%20Concepts.pdf)
+ 
  - MODULE 2 - [Billing and Economy](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%202_%20Billing%20and%20Economy.pdf)
+ 
  - MODULE 3 - [AWS Global Infrastructure](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%203_%20AWS%20Global%20Infrastructure.pdf)
+ 
  - MODULE 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%204_%20AWS%20Cloud%20Security.pdf)
+ 
  - MODULE 5 - [Networking and Content Delivery](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%205_%20Networking%20and%20Content%20Delivery.pdf)
+
  - MODULE 6 - [Compute Services Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%206_%20Compute%20Services%20Overview.pdf)
+ 
  - MODULE 7 - [Storage](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%207_%20Storage.pdf)
+ 
  - MODULE 8 - [Databases](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%208_%20Databases.pdf)
+ 
  - MODULE 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%209_%20Cloud%20Architecture.pdf)
+ 
  - MODULE 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%2010_%20Automatic%20Scaling%20and%20Monitoring.pdf)
 
 ## PDFs
