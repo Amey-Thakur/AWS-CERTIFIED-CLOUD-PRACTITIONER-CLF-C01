@@ -1,4 +1,5 @@
 # AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
+ AWS-CLF-C01
 
  >[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner) | [Certification](https://aws.amazon.com/certification/)
  
@@ -11,37 +12,48 @@
  - [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/Anthony%20Sequeira%20%5BAnthony%20Sequeira%5D%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)%20Cert%20Guide%2C%20First%20Edition-Pearson%20IT%20Certification%20(2019).pdf) - _Anthony Sequeira_
  - [AWS Ramp-Up Guide: Cloud Foundations](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/AWS%20Ramp-Up%20Guide%20Cloud%20Foundations.pdf) - **MUST DO**
  - [AWS Certified Cloud Practitioner Dumps PDF and VCE](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Books/AWS-Certified-Cloud-Practitioner%20Dumps%20PDF%20and%20VCE) - **BONUS**
- 
- >PDFs
- 
- - [Key Generation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/01_Key_Generation.pdf)
- - [Windows Instance Creation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/02_Windows_Instance_Creation.pdf)
- - [Linux Instance Creation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/03_Linux_Instance_Creation.pdf)
- - [Elastic IP Address](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/04_Elastic_IP_Address.pdf)
- - [AMI](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/05_AMI.pdf)
- - [Apache WebServer Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/06_Apache_WebServer_Windows.pdf)
- - [Apache WebServer Linux](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/07_Apache_WebServer_Linux.pdf)
- - [IIS WebServer Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/08_IIS_WebServer_Windows.pdf)
- - [Storage EBS Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/09_Storage_EBS_Windows.pdf)
- - [Storage EBS Linux](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PDFS/10_Storage_EBS_Linux.pdf)
 
+## MEGA NOTES
+ >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
+ - MODULE 1 - [Cloud Concepts](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%201_%20Cloud%20Concepts.pdf)
+ - MODULE 2 - [Billing and Economy](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%202_%20Billing%20and%20Economy.pdf)
+ - MODULE 3 - [AWS Global Infrastructure](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%203_%20AWS%20Global%20Infrastructure.pdf)
+ - MODULE 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%204_%20AWS%20Cloud%20Security.pdf)
+ - MODULE 5 - [Networking and Content Delivery](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%205_%20Networking%20and%20Content%20Delivery.pdf)
+ - MODULE 6 - [Compute Services Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%206_%20Compute%20Services%20Overview.pdf)
+ - MODULE 7 - [Storage](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%207_%20Storage.pdf)
+ - MODULE 8 - [Databases](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%208_%20Databases.pdf)
+ - MODULE 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%209_%20Cloud%20Architecture.pdf)
+ - MODULE 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%2010_%20Automatic%20Scaling%20and%20Monitoring.pdf)
 
- >PPTs
- 
- - Module 0 - [Course Introduction](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_00.pdf)
- - Module 1 - [Cloud Concepts Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_01.pdf)
- - Module 2 - [Cloud Economics and Billing](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_02.pdf)
- - Module 3 - [AWS Global Infrastructure Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_03.pdf)
- - Module 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_04.pdf)
- - Module 5 - Neworking and Content Delivery - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_05_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_05_02.pdf) | [Part III](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_05_03.pdf)
- - Module 6 - [Compute](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_06.pdf)
- - Module 7 - Storage - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_07_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_07_02.pdf)
- - Module 8 - [Databases](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_08.pdf)
- - Module 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_09.pdf)
- - Module 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/PPTS/AcademyCloudFoundations_Module_10.pdf)
+## PDFs
+ - [Key Generation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/01_Key_Generation.pdf)
+ - [Windows Instance Creation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/02_Windows_Instance_Creation.pdf)
+ - [Linux Instance Creation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/03_Linux_Instance_Creation.pdf)
+ - [Elastic IP Address](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/04_Elastic_IP_Address.pdf)
+ - [AMI](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/05_AMI.pdf)
+ - [Apache WebServer Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/06_Apache_WebServer_Windows.pdf)
+ - [Apache WebServer Linux](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/07_Apache_WebServer_Linux.pdf)
+ - [IIS WebServer Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/08_IIS_WebServer_Windows.pdf)
+ - [Storage EBS Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/09_Storage_EBS_Windows.pdf)
+ - [Storage EBS Linux](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/10_Storage_EBS_Linux.pdf)
+
+## PPTs
+ - [PowerPoint](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/PPTS/PowerPoint)
+
+ - Module 0 - [Course Introduction](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_00.pdf)
+ - Module 1 - [Cloud Concepts Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_01.pdf)
+ - Module 2 - [Cloud Economics and Billing](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_02.pdf)
+ - Module 3 - [AWS Global Infrastructure Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_03.pdf)
+ - Module 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_04.pdf)
+ - Module 5 - Neworking and Content Delivery - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_02.pdf) | [Part III](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_03.pdf)
+ - Module 6 - [Compute](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_06.pdf)
+ - Module 7 - Storage - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_07_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_07_02.pdf)
+ - Module 8 - [Databases](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_08.pdf)
+ - Module 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_09.pdf)
+ - Module 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_10.pdf)
 
 ## Courses & Labs
-
  - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
  - [QwikLabs](https://www.qwiklabs.com)
 
