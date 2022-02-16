@@ -13,29 +13,6 @@
  - [AWS Ramp-Up Guide: Cloud Foundations](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/AWS%20Ramp-Up%20Guide%20Cloud%20Foundations.pdf) - **MUST DO**
  - [AWS Certified Cloud Practitioner Dumps PDF and VCE](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Books/AWS-Certified-Cloud-Practitioner%20Dumps%20PDF%20and%20VCE) - **BONUS**
 
-## MEGA NOTES
- >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
- 
- - MODULE 1 - [Cloud Concepts](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%201_%20Cloud%20Concepts.pdf)
- 
- - MODULE 2 - [Billing and Economy](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%202_%20Billing%20and%20Economy.pdf)
- 
- - MODULE 3 - [AWS Global Infrastructure](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%203_%20AWS%20Global%20Infrastructure.pdf)
- 
- - MODULE 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%204_%20AWS%20Cloud%20Security.pdf)
- 
- - MODULE 5 - [Networking and Content Delivery](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%205_%20Networking%20and%20Content%20Delivery.pdf)
-
- - MODULE 6 - [Compute Services Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%206_%20Compute%20Services%20Overview.pdf)
- 
- - MODULE 7 - [Storage](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%207_%20Storage.pdf)
- 
- - MODULE 8 - [Databases](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%208_%20Databases.pdf)
- 
- - MODULE 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%209_%20Cloud%20Architecture.pdf)
- 
- - MODULE 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%2010_%20Automatic%20Scaling%20and%20Monitoring.pdf)
-
 ## PDFs
  - [Key Generation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/01_Key_Generation.pdf)
  - [Windows Instance Creation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/02_Windows_Instance_Creation.pdf)
