@@ -9,7 +9,7 @@
 ## Books
  >Reference Books
 
- - [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/Anthony%20Sequeira%20%5BAnthony%20Sequeira%5D%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)%20Cert%20Guide%2C%20First%20Edition-Pearson%20IT%20Certification%20(2019).pdf) - _Anthony Sequeira_
+ - [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/Anthony%20Sequeira%20%5BAnthony%20Sequeira%5D%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)%20Cert%20Guide%2C%20First%20Edition-Pearson%20IT%20Certification%20(2019).pdf) - **_Anthony Sequeira_**
  - [AWS Ramp-Up Guide: Cloud Foundations](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/AWS%20Ramp-Up%20Guide%20Cloud%20Foundations.pdf) - **MUST DO**
  - [AWS Certified Cloud Practitioner Dumps PDF and VCE](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Books/AWS-Certified-Cloud-Practitioner%20Dumps%20PDF%20and%20VCE) - **BONUS**
 
