@@ -181,5 +181,7 @@
 
  ### AWS Project
  
- - **PIZZA ORDERING CHATBOT USING AMAZON LEX - [YouTube Video](https://youtu.be/FHbXSo95S7A)**
+ >**PIZZA ORDERING CHATBOT USING AMAZON LEX 
+ 
+ - [YouTube Video](https://youtu.be/FHbXSo95S7A)**
 
