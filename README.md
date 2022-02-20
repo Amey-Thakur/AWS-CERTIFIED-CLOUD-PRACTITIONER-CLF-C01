@@ -175,3 +175,11 @@
  - _The final assessment includes all the chapters covered in Stage 1, 2 and 3._
  
  - [x] **[AWS Cloud Final Assessment](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)**
+
+
+---
+
+ ### AWS Project
+ 
+ - **PIZZA ORDERING CHATBOT USING AMAZON LEX - [YouTube Video](https://youtu.be/FHbXSo95S7A)**
+
