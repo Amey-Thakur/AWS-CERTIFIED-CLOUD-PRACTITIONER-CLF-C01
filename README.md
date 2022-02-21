@@ -1,12 +1,14 @@
 # AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
  AWS-CLF-C01
 
- >[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner) | [Certification](https://aws.amazon.com/certification/)
+ >**[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner) | [Certification](https://aws.amazon.com/certification/)**
  
  - **AWS-CLF-C01 - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)**
  
  - **AWS Certified Cloud Practitioner - [Exam Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/AWS%20Certified%20Cloud%20Practitioner%20Exam%20Guide.PDF)** 
-  
+
+![AMEY AWS](https://user-images.githubusercontent.com/54937357/154998898-49cdadf0-15b9-4bcb-baad-744b955676ed.png)
+
 ## Books
  
  >Reference Books
