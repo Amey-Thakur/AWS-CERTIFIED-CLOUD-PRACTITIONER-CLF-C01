@@ -72,7 +72,7 @@
 
 ## PPTs
  
- - [PowerPoint](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/PPTS/PowerPoint)
+ >[PowerPoint](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/PPTS/PowerPoint)
 
  - Module 0 - [Course Introduction](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_00.pdf)
  
@@ -183,9 +183,25 @@
 
 ---
 
- ### AWS Project
- 
- >**PIZZA ORDERING CHATBOT USING AMAZON LEX**
- 
- - **[YouTube Video](https://youtu.be/FHbXSo95S7A)** - **BONUS**
+## AWS YouTube Playlist
 
+- [AMAZON EC2 INSTANCE TUTORIAL](https://youtu.be/y-oACtu8djc)
+
+- [AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8)
+
+- [AMAZON EBS VOLUME TUTORIAL](https://youtu.be/D8Vt_wIuDHQ)
+
+- [AMAZON EFS TUTORIAL](https://youtu.be/jShMHcYju4Y)
+
+- [AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc)
+
+- [AMAZON VPC AURORADB TUTORIAL](https://youtu.be/EhV8I2ElVRk)
+
+- [AMAZON LOAD BALANCER TUTORIAL](https://youtu.be/3TIzIHqkvvU)
+
+- [AMAZON LIGHTSAIL WORDPRESS TUTORIAL](https://youtu.be/Ey8Tm4cC6yo)
+
+
+### AWS Project
+ 
+ - **[PIZZA ORDERING CHATBOT USING AMAZON LEX](https://youtu.be/FHbXSo95S7A)** - **BONUS**
