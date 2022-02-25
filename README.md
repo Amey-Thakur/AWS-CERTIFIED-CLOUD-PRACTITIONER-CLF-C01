@@ -201,6 +201,8 @@
 
 - [AMAZON LIGHTSAIL WORDPRESS TUTORIAL](https://youtu.be/Ey8Tm4cC6yo)
 
+- [AMAZON IAM TUTORIAL](https://youtu.be/dnmuv0PC7W8)
+
 
 ### AWS Project
  
