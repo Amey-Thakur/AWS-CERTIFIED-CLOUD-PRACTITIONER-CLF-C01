@@ -1,5 +1,5 @@
 # AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
- AWS-CLF-C01
+ 👍🏻 AWS-CLF-C01
 
  >**[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner) | [Certification](https://aws.amazon.com/certification/)**
  
@@ -208,3 +208,10 @@
 ### AWS Project
  
  - **PIZZA ORDERING CHATBOT USING AMAZON LEX - [Complete Guide](https://youtu.be/FHbXSo95S7A) | [Project Demo](https://youtu.be/6iLgN_1e4DU)** - **BONUS**
+
+---
+
+<p align="center"> <b> 👉🏻 Created as a part of the 8th Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+ 
