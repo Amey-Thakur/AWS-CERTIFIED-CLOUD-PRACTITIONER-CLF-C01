@@ -1,4 +1,5 @@
 # AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
+
  👍🏻 AWS-CLF-C01
 
  >**[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner) | [Certification](https://aws.amazon.com/certification/)**
@@ -217,5 +218,5 @@
 
 <p align="center"> <b> 👉🏻 Created as a part of the 8th Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
  
