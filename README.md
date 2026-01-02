@@ -86,7 +86,7 @@
  
  - Module 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_04.pdf)
  
- - Module 5 - Neworking and Content Delivery - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_02.pdf) | [Part III](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_03.pdf)
+ - Module 5 - Networking and Content Delivery - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_02.pdf) | [Part III](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_03.pdf)
  
  - Module 6 - [Compute](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_06.pdf)
  
