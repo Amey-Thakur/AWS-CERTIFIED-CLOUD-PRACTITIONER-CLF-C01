@@ -45,7 +45,7 @@
   </td>
   <td align="center">
   <a href="https://github.com/msatmod">
-  <img src="docs/assets/Mega.jpg" width="180px;" alt="Mega Satish"/><br />
+  <img src="Mega/Mega_Professional.jpg" width="180px;" alt="Mega Satish"/><br />
   <sub><b>Mega Satish</b></sub>
   </a><br /><br />
   <a href="https://orcid.org/0000-0002-1430-4961">
@@ -104,8 +104,9 @@ AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 ├── docs/                            # Technical Documentation
 │   └── SPECIFICATION.md             # Certification Roadmap & Lab Flows
 │
-├── Mega/                            # Co-Author Portfolio Layer
+├── Mega/                            # Co-Author Portfolio & Brand Assets
 │   ├── assets/                      # Visual Assets for Mega Portfolio
+│   ├── Mega_Professional.jpg        # Author Profile Artifact
 │   └── index.html                   # Integrated Portfolio Gateway
 │
 ├── MEGA NOTES/                      # Core Concept Notes (Modules 1-10)
