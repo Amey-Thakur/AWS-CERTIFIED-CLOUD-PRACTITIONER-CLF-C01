@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -91,6 +91,39 @@ The repository serves as a centralized documentation hub for AWS services (EC2, 
 - **Certifications**: Honeywell - ICT Academy (Cloud Computing Course)
 - **Core Services**: IAM, EC2, S3, EBS, EFS, RDS, VPC, ELB, Lex, Lightsail
 - **Documentation**: Markdown, PDF (Standard Exam Blueprints)
+
+---
+
+<!-- MEGA'S NOTES -->
+<a name="megas-notes"></a>
+## Mega's Notes
+
+<div align="center">
+
+<a href="https://github.com/msatmod">
+<img src="Mega/Mega.png" alt="Mega Satish" width="150" height="150"/><br/>
+<b>Mega Satish</b>
+</a>
+
+</div>
+
+> [!IMPORTANT]
+> 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+
+**Comprehensive module-wise notes curated by Mega Satish:**
+
+| Module | Resource | Topics Covered |
+|:---:|:---|:---|
+| 1 | [MODULE 1: Cloud Concepts](MEGA%20NOTES/MODULE%201_%20Cloud%20Concepts.pdf) | Cloud Computing Overview, Service Models, Deployment Models |
+| 2 | [MODULE 2: Billing and Economy](MEGA%20NOTES/MODULE%202_%20Billing%20and%20Economy.pdf) | AWS Billing, Pricing Models, TCO, Cost Optimization |
+| 3 | [MODULE 3: AWS Global Infrastructure](MEGA%20NOTES/MODULE%203_%20AWS%20Global%20Infrastructure.pdf) | Regions, Availability Zones, Edge Locations |
+| 4 | [MODULE 4: AWS Cloud Security](MEGA%20NOTES/MODULE%204_%20AWS%20Cloud%20Security.pdf) | IAM, Shared Responsibility, Security Groups |
+| 5 | [MODULE 5: Networking and Content Delivery](MEGA%20NOTES/MODULE%205_%20Networking%20and%20Content%20Delivery.pdf) | VPC, Subnets, CloudFront, Route 53 |
+| 6 | [MODULE 6: Compute Services Overview](MEGA%20NOTES/MODULE%206_%20Compute%20Services%20Overview.pdf) | EC2, Lambda, Elastic Beanstalk, Lightsail |
+| 7 | [MODULE 7: Storage](MEGA%20NOTES/MODULE%207_%20Storage.pdf) | S3, EBS, EFS, Storage Gateway |
+| 8 | [MODULE 8: Databases](MEGA%20NOTES/MODULE%208_%20Databases.pdf) | RDS, DynamoDB, Aurora, Redshift |
+| 9 | [MODULE 9: Cloud Architecture](MEGA%20NOTES/MODULE%209_%20Cloud%20Architecture.pdf) | Well-Architected Framework, Design Principles |
+| 10 | [MODULE 10: Automatic Scaling and Monitoring](MEGA%20NOTES/MODULE%2010_%20Automatic%20Scaling%20and%20Monitoring.pdf) | Auto Scaling, CloudWatch, Load Balancing |
 
 ---
 
@@ -282,13 +315,13 @@ AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 <a name="practicals"></a>
 ## Laboratory Practicals
 
-| Practical | Implementation | Video Guide |
-| :---: | :--- | :---: |
-| **Amazon S3** | Static Website Hosting & Bucket Policies | [![Amazon S3](https://img.youtube.com/vi/CnM07Vg7pW8/0.jpg)](https://youtu.be/CnM07Vg7pW8) |
-| **Amazon EC2** | Linux/Windows Instances & Key Generation | [![Amazon EC2](https://img.youtube.com/vi/y-oACtu8djc/0.jpg)](https://youtu.be/y-oACtu8djc) |
-| **Amazon EBS** | Volume Management & Mounting | [![Amazon EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/0.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
-| **Amazon RDS** | Relational Database Deployment (MySQL/Aurora) | [![Amazon RDS](https://img.youtube.com/vi/9Quw6uln1Zc/0.jpg)](https://youtu.be/9Quw6uln1Zc) |
-| **Amazon ELB** | Load Balancing & Target Groups | [![Amazon ELB](https://img.youtube.com/vi/3TIzIHqkvvU/0.jpg)](https://youtu.be/3TIzIHqkvvU) |
+| Practical | Implementation | Date | Video Guide |
+| :---: | :--- | :---: | :---: |
+| **Amazon S3** | Static Website Hosting & Bucket Policies | March 18, 2022 | [![Amazon S3](https://img.youtube.com/vi/CnM07Vg7pW8/0.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| **Amazon EC2** | Linux/Windows Instances & Key Generation | March 18, 2022 | [![Amazon EC2](https://img.youtube.com/vi/y-oACtu8djc/0.jpg)](https://youtu.be/y-oACtu8djc) |
+| **Amazon EBS** | Volume Management & Mounting | March 18, 2022 | [![Amazon EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/0.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
+| **Amazon RDS** | Relational Database Deployment (MySQL/Aurora) | March 18, 2022 | [![Amazon RDS](https://img.youtube.com/vi/9Quw6uln1Zc/0.jpg)](https://youtu.be/9Quw6uln1Zc) |
+| **Amazon ELB** | Load Balancing & Target Groups | March 18, 2022 | [![Amazon ELB](https://img.youtube.com/vi/3TIzIHqkvvU/0.jpg)](https://youtu.be/3TIzIHqkvvU) |
 
 ---
 
@@ -368,7 +401,11 @@ This project features the **AWS Certified Cloud Practitioner** archive, a collec
 
 ### Acknowledgments
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her exceptional contribution to this repository through "Mega's Notes" - comprehensive module-wise notes that became an invaluable resource for understanding complex cloud computing concepts. Her constant support, patience, and clarity throughout this journey made a real difference. Learning alongside her was transformative, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Cloud Computing. Their clear teaching and continued support helped develop a strong understanding of AWS cloud architecture.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
@@ -376,15 +413,19 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  🔬 **[Cloud Computing Laboratory](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)** &nbsp; · &nbsp; ☁️ **[AWS-CLF-C01](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)**
+  🔬 **[Cloud Computing Laboratory](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)** &nbsp;·&nbsp; ☁️ **[AWS-CLF-C01](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)**
 
-  ---
+</div>
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+---
+
+<div align="center">
+
+  ### [🎓 Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
