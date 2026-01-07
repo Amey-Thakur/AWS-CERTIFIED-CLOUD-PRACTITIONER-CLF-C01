@@ -283,7 +283,7 @@ AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 ## Laboratory Practicals
 
 | Practical | Implementation | Video Guide |
-| :--- | :--- | :---: |
+| :---: | :--- | :---: |
 | **Amazon S3** | Static Website Hosting & Bucket Policies | [![Amazon S3](https://img.youtube.com/vi/CnM07Vg7pW8/0.jpg)](https://youtu.be/CnM07Vg7pW8) |
 | **Amazon EC2** | Linux/Windows Instances & Key Generation | [![Amazon EC2](https://img.youtube.com/vi/y-oACtu8djc/0.jpg)](https://youtu.be/y-oACtu8djc) |
 | **Amazon EBS** | Volume Management & Mounting | [![Amazon EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/0.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
