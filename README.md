@@ -45,7 +45,7 @@
   </td>
   <td align="center">
   <a href="https://github.com/msatmod">
-  <img src="Mega/Mega_Professional.jpg" width="180px;" alt="Mega Satish"/><br />
+  <img src="Mega/Mega.png" width="180px;" alt="Mega Satish"/><br />
   <sub><b>Mega Satish</b></sub>
   </a><br /><br />
   <a href="https://orcid.org/0000-0002-1430-4961">
