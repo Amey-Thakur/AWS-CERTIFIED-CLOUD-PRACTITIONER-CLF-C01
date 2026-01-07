@@ -10,7 +10,7 @@
 
   A comprehensive knowledge archive and laboratory portfolio documenting the path to the AWS Certified Cloud Practitioner (CLF-C01) certification, integrating theory, practicals, and assessments.
 
-  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/)**
+  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/)**
 
 </div>
 
