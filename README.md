@@ -6,7 +6,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-AWS%20Cloud-orange)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)
-  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey-Thakur-blue)](https://github.com/Amey-Thakur)
+  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey--Thakur-blue)](https://github.com/Amey-Thakur)
 
   A comprehensive knowledge archive and laboratory portfolio documenting the path to the AWS Certified Cloud Practitioner (CLF-C01) certification, integrating theory, practicals, and assessments.
 
@@ -45,7 +45,7 @@
   </td>
   <td align="center">
   <a href="https://github.com/msatmod">
-  <img src="https://github.com/msatmod.png" width="180px;" alt="Mega Satish"/><br />
+  <img src="docs/assets/Mega.jpg" width="180px;" alt="Mega Satish"/><br />
   <sub><b>Mega Satish</b></sub>
   </a><br /><br />
   <a href="https://orcid.org/0000-0002-1430-4961">
