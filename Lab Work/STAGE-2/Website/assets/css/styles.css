@@ -1,4 +1,18 @@
+/*
+========================================================================================
+Project: AWS Certified Cloud Practitioner | CLF-C01 Archive
+File: Lab Work/STAGE-2/Website/assets/css/styles.css
+Description: CSS3 structural and aesthetic styles for the Website laboratory module.
+             Features modular grid variables and GSAP-ready overlay transitions.
+Authors: Amey Thakur & Mega Satish
+GitHub: https://github.com/Amey-Thakur/ | https://github.com/msatmod
+Repository: https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
+Release Date: 2022-01-21
+========================================================================================
+*/
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
 /*----- VARIABLES CSS Y SASS -----*/
 /*Varibles sass*/
 /*Variables css*/
@@ -37,9 +51,11 @@
 }
 
 /*----- BASE -----*/
-*, ::before, ::after {
+*,
+::before,
+::after {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -51,7 +67,8 @@ body {
   overflow: hidden;
 }
 
-h1, h2 {
+h1,
+h2 {
   margin: 0;
 }
 
@@ -94,11 +111,11 @@ img {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   font-weight: 700;
 }
 
@@ -169,12 +186,12 @@ img {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 1fr;
-      grid-template-columns: 1fr;
+  grid-template-columns: 1fr;
   -ms-grid-rows: max-content max-content;
-      grid-template-rows: -webkit-max-content -webkit-max-content;
-      grid-template-rows: max-content max-content;
+  grid-template-rows: -webkit-max-content -webkit-max-content;
+  grid-template-rows: max-content max-content;
   -ms-flex-line-pack: distribute;
-      align-content: space-around;
+  align-content: space-around;
   row-gap: 2.3rem;
   height: 100%;
   font-weight: 700;
@@ -223,8 +240,8 @@ img {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   padding-bottom: 1rem;
 }
 
@@ -243,50 +260,62 @@ img {
   body {
     margin: 0;
   }
+
   .l-main {
     height: 100vh;
   }
+
   .nav {
     height: 4rem;
   }
+
   .nav__list {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     padding-top: 0;
   }
+
   .nav__item {
     margin-left: 3rem;
     margin-bottom: 0;
   }
-  .nav__toggle, .nav__close {
+
+  .nav__toggle,
+  .nav__close {
     display: none;
   }
+
   .nav__link {
     text-transform: initial;
   }
+
   .home {
     -ms-grid-rows: max-content 20px;
-        grid-template-rows: -webkit-max-content 20px;
-        grid-template-rows: max-content 20px;
+    grid-template-rows: -webkit-max-content 20px;
+    grid-template-rows: max-content 20px;
     -ms-flex-line-pack: center;
-        align-content: center;
+    align-content: center;
   }
+
   .home__information {
     margin-top: 2rem;
   }
+
   .home__social {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     padding-top: 8rem;
     padding-bottom: 0;
   }
+
   .home__social-icon {
     margin-right: 2rem;
     margin-bottom: 0;
   }
+
   .home__img {
     width: 553px;
     right: 5%;
