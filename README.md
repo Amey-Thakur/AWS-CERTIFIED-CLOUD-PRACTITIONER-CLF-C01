@@ -101,37 +101,47 @@ The repository serves as a centralized documentation hub for AWS services (EC2, 
 ```bash
 AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 │
-├── docs/                            # Technical Documentation
-│   └── SPECIFICATION.md             # Certification Roadmap & Lab Flows
+├── .github/                         # GitHub Operations & CI/CD
+│   └── workflows/
+│       └── deploy.yml               # Automated Portfolio Deployment
 │
-├── Mega/                            # Co-Author Portfolio & Brand Assets
-│   ├── assets/                      # Visual Assets for Mega Portfolio
-│   ├── Mega_Professional.jpg        # Author Profile Artifact
-│   └── index.html                   # Integrated Portfolio Gateway
+├── docs/                            # Research & Specifications
+│   └── SPECIFICATION.md             # Technical Roadmap & Lab Flows
 │
-├── MEGA NOTES/                      # Mega's Notes (Core Modules 1-10)
+├── Mega/                            # Co-Author Portfolio Gateway
+│   ├── assets/                      # Visual Artifacts (CSS, JS, Fonts)
+│   ├── Mega.png                     # Primary Profile Identifier
+│   ├── Mega_Chair.png               # Brand Identifier (High-Res)
+│   ├── Mega_Professional.jpg        # Professional Portfolio Artifact
+│   └── index.html                   # Shared Authorship Gateway
 │
-├── Course Materials/                # Foundational Learning Assets
-│   ├── Books/                       # Reference Guides & Ramp-Up Docs
-│   ├── PDFS/                        # Technical Lab Procedures
-│   └── PPTS/                        # Official Academy Modules (0-10)
+├── MEGA NOTES/                      # Mega's Notes (Modules 1-10)
+│   └── [10 PDF Modules]             # Comprehensive Theoretical Corpus
 │
-├── Lab Work/                        # Practical Project Implementations
-│   ├── STAGE-1/                     # Foundational EC2 & Cost Tools
-│   ├── STAGE-2/                     # Storage Operations (S3/EBS)
-│   └── STAGE-3/                     # Advanced Database & ELB Tasks
+├── Course Materials/                # Foundational Learning Corpus
+│   ├── Books/                       # Reference Texts & Official Guides
+│   ├── PDFS/                        # Step-by-Step Lab Procedures
+│   └── PPTS/                        # Official AWS Academy Modules
 │
-├── Assessments/                     # Verification & Certifications
-│   ├── Final Assessment/            # Comprehensive Mock Exams
-│   └── Honeywell ICT Academy/       # Certification Mock Results
+├── Lab Work/                        # Multi-Stage Laboratory Results
+│   ├── STAGE-1/                     # EC2 Instance & Launch Analytics
+│   ├── STAGE-2/                     # Storage, Motion, & Portfolios
+│   │   ├── Animation/               # Parallax Web Design Implementation
+│   │   ├── Portfolio/               # Responsive Portfolio Module
+│   │   └── Website/                 # Cloud Landing Page Demonstration
+│   └── STAGE-3/                     # Advanced Scaling & DB Tasks
 │
-├── Source Code/                     # Script-based Implementations
-│   └── Transactions.sql             # RDS/Aurora SQL Test Scripts
+├── Assessments/                     # Mock Exams & Certifications
+│   ├── Final Assessment/            # Final Mock Corpus & Answer Banks
+│   └── Honeywell - ICT Academy/     # Official Progress Certifications
+│
+├── Source Code/                     # Practice Implementations
+│   └── Transactions.sql             # SQL Logic for AWS RDS/Aurora Tests
 │
 ├── CITATION.cff                     # Scholarly Citation Metadata
-├── codemeta.json                    # Machine-Readable Project Metadata
-├── LICENSE                          # MIT License Terms
-├── README.md                        # Primary Archival Entrance
+├── codemeta.json                    # Machine-Readable Project Data
+├── LICENSE                          # MIT Legal Notice & Copyright
+├── README.md                        # Central Project Gateway
 └── SECURITY.md                      # Security Policy & Protocol
 ```
 
