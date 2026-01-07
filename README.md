@@ -143,11 +143,11 @@ AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 
 | Practical | Implementation | Video Guide |
 | :--- | :--- | :---: |
-| **Amazon S3** | Static Website Hosting & Bucket Policies | [YouTube](https://youtu.be/CnM07Vg7pW8) |
-| **Amazon EC2** | Linux/Windows Instances & Key Generation | [YouTube](https://youtu.be/y-oACtu8djc) |
-| **Amazon EBS** | Volume Management & Mounting | [YouTube](https://youtu.be/D8Vt_wIuDHQ) |
-| **Amazon RDS** | Relational Database Deployment (MySQL/Aurora) | [YouTube](https://youtu.be/9Quw6uln1Zc) |
-| **Amazon ELB** | Load Balancing & Target Groups | [YouTube](https://youtu.be/3TIzIHqkvvU) |
+| **Amazon S3** | Static Website Hosting & Bucket Policies | [![Amazon S3](https://img.youtube.com/vi/CnM07Vg7pW8/0.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| **Amazon EC2** | Linux/Windows Instances & Key Generation | [![Amazon EC2](https://img.youtube.com/vi/y-oACtu8djc/0.jpg)](https://youtu.be/y-oACtu8djc) |
+| **Amazon EBS** | Volume Management & Mounting | [![Amazon EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/0.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
+| **Amazon RDS** | Relational Database Deployment (MySQL/Aurora) | [![Amazon RDS](https://img.youtube.com/vi/9Quw6uln1Zc/0.jpg)](https://youtu.be/9Quw6uln1Zc) |
+| **Amazon ELB** | Load Balancing & Target Groups | [![Amazon ELB](https://img.youtube.com/vi/3TIzIHqkvvU/0.jpg)](https://youtu.be/3TIzIHqkvvU) |
 
 ---
 
