@@ -206,7 +206,7 @@ This repository and all its creative and technical assets are made available und
 > [!NOTE]
 > **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-Copyright © 2022 Amey Thakur
+Copyright © 2022 Amey Thakur & Mega Satish
 
 ---
 
