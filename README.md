@@ -113,7 +113,7 @@ The repository serves as a centralized documentation hub for AWS services (EC2, 
 **Comprehensive module-wise notes curated by Mega Satish:**
 
 | Module | Resource | Topics Covered |
-|:---:|:---|:---|
+|:---:|:---:|:---:|
 | 1 | [MODULE 1: Cloud Concepts](MEGA%20NOTES/MODULE%201_%20Cloud%20Concepts.pdf) | Cloud Computing Overview, Service Models, Deployment Models |
 | 2 | [MODULE 2: Billing and Economy](MEGA%20NOTES/MODULE%202_%20Billing%20and%20Economy.pdf) | AWS Billing, Pricing Models, TCO, Cost Optimization |
 | 3 | [MODULE 3: AWS Global Infrastructure](MEGA%20NOTES/MODULE%203_%20AWS%20Global%20Infrastructure.pdf) | Regions, Availability Zones, Edge Locations |
@@ -124,6 +124,7 @@ The repository serves as a centralized documentation hub for AWS services (EC2, 
 | 8 | [MODULE 8: Databases](MEGA%20NOTES/MODULE%208_%20Databases.pdf) | RDS, DynamoDB, Aurora, Redshift |
 | 9 | [MODULE 9: Cloud Architecture](MEGA%20NOTES/MODULE%209_%20Cloud%20Architecture.pdf) | Well-Architected Framework, Design Principles |
 | 10 | [MODULE 10: Automatic Scaling and Monitoring](MEGA%20NOTES/MODULE%2010_%20Automatic%20Scaling%20and%20Monitoring.pdf) | Auto Scaling, CloudWatch, Load Balancing |
+
 
 ---
 
