@@ -244,6 +244,7 @@ AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 │   │   │   └── img.jpg                                           # Brand Context Visual Artifact
 │   │   └── js/
 │   │       └── main.js                                           # UI Orchestration Layer
+│   ├── Filly.jpg                                                 # Project-Related Content Asset
 │   ├── index.html                                                # Shared Authorship Gateway Entry
 │   ├── Mega.png                                                  # Primary Profile Identifier
 │   ├── Mega_and_Hetvi.png                                        # Collaborative Identity Asset
