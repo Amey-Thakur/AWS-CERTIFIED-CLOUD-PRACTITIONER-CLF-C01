@@ -1,17 +1,14 @@
 /*
-================================================================================
-    Portfolio JavaScript - Mega Satish
-    
-    Author: Mega Satish
-    Course: Cloud Computing Laboratory (CSL803)
-    Roll No: B-51
-    
-    Repository: https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB
-    GitHub: https://github.com/msatmod
-    
-    Description: GSAP animations and menu toggle for portfolio page.
-    Date: February 2022
-================================================================================
+========================================================================================
+Project: AWS Certified Cloud Practitioner | CLF-C01 Archive
+File: Mega/assets/js/main.js
+Description: Interactive logic and GSAP animations for the Mega Portfolio layer.
+             Handles menu navigation and initial page transition sequences.
+Authors: Amey Thakur & Mega Satish
+GitHub: https://github.com/Amey-Thakur/ | https://github.com/msatmod
+Repository: https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
+Release Date: 2022-01-21
+========================================================================================
 */
 
 /* MENU SHOW */
