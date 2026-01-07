@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this certification resource or associated academic materials, please cite them as below."
+authors:
+- family-names: "Thakur"
+  given-names: "Amey"
+  orcid: "https://orcid.org/0000-0001-5644-1575"
+- family-names: "Satish"
+  given-names: "Mega"
+  orcid: "https://orcid.org/0000-0002-1430-4961"
+title: "AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01"
+version: 1.0.0
+date-released: 2022-01-21
+url: "https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01"

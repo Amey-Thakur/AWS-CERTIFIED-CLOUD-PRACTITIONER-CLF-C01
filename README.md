@@ -1,222 +1,251 @@
-# AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
+<div align="center">
 
- 👍🏻 AWS-CLF-C01
+  <a name="readme-top"></a>
+  # AWS Certified Cloud Practitioner | CLF-C01
 
- >**[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner) | [Certification](https://aws.amazon.com/certification/)**
- 
- - **AWS-CLF-C01 - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)**
- 
- - **AWS Certified Cloud Practitioner - [Exam Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/AWS%20Certified%20Cloud%20Practitioner%20Exam%20Guide.PDF)** 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+  ![Status](https://img.shields.io/badge/Status-Completed-success)
+  [![Technology](https://img.shields.io/badge/Technology-AWS%20Cloud-orange)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)
+  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey-Thakur-blue)](https://github.com/Amey-Thakur)
 
----
+  A comprehensive knowledge archive and laboratory portfolio documenting the path to the AWS Certified Cloud Practitioner (CLF-C01) certification, integrating theory, practicals, and assessments.
 
-[![AMEY AWS](https://user-images.githubusercontent.com/54937357/154998898-49cdadf0-15b9-4bcb-baad-744b955676ed.png)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)
+  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega Portfolio](Mega/index.html)**
 
-
-## Books
- 
- - Reference Books
-
-   - [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/Anthony%20Sequeira%20%5BAnthony%20Sequeira%5D%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)%20Cert%20Guide%2C%20First%20Edition-Pearson%20IT%20Certification%20(2019).pdf) - **ANTHONY SEQUEIRA**
- 
-   - [AWS Ramp-Up Guide: Cloud Foundations](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Books/AWS%20Ramp-Up%20Guide%20Cloud%20Foundations.pdf) - **MUST DO**
- 
-   - [AWS Certified Cloud Practitioner Dumps PDF and VCE](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Books/AWS-Certified-Cloud-Practitioner%20Dumps%20PDF%20and%20VCE) - **BONUS**
-
-
-## MEGA NOTES
- 
- >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
- 
- - MODULE 1 - [Cloud Concepts](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%201_%20Cloud%20Concepts.pdf)
- 
- - MODULE 2 - [Billing and Economy](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%202_%20Billing%20and%20Economy.pdf)
- 
- - MODULE 3 - [AWS Global Infrastructure](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%203_%20AWS%20Global%20Infrastructure.pdf)
- 
- - MODULE 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%204_%20AWS%20Cloud%20Security.pdf)
- 
- - MODULE 5 - [Networking and Content Delivery](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%205_%20Networking%20and%20Content%20Delivery.pdf)
-
- - MODULE 6 - [Compute Services Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%206_%20Compute%20Services%20Overview.pdf)
- 
- - MODULE 7 - [Storage](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%207_%20Storage.pdf)
- 
- - MODULE 8 - [Databases](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%208_%20Databases.pdf)
- 
- - MODULE 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%209_%20Cloud%20Architecture.pdf)
- 
- - MODULE 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/MEGA%20NOTES/MODULE%2010_%20Automatic%20Scaling%20and%20Monitoring.pdf)
-
-
-## PDFs
- 
- - [Key Generation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/01_Key_Generation.pdf)
- 
- - [Windows Instance Creation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/02_Windows_Instance_Creation.pdf)
- 
- - [Linux Instance Creation](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/03_Linux_Instance_Creation.pdf)
- 
- - [Elastic IP Address](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/04_Elastic_IP_Address.pdf)
- 
- - [AMI](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/05_AMI.pdf)
- 
- - [Apache WebServer Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/06_Apache_WebServer_Windows.pdf)
- 
- - [Apache WebServer Linux](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/07_Apache_WebServer_Linux.pdf)
- 
- - [IIS WebServer Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/08_IIS_WebServer_Windows.pdf)
- 
- - [Storage EBS Windows](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/09_Storage_EBS_Windows.pdf)
- 
- - [Storage EBS Linux](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PDFS/10_Storage_EBS_Linux.pdf)
-
-
-## PPTs
- 
- >[PowerPoint](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/PPTS/PowerPoint)
-
- - Module 0 - [Course Introduction](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_00.pdf)
- 
- - Module 1 - [Cloud Concepts Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_01.pdf)
- 
- - Module 2 - [Cloud Economics and Billing](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_02.pdf)
- 
- - Module 3 - [AWS Global Infrastructure Overview](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_03.pdf)
- 
- - Module 4 - [AWS Cloud Security](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_04.pdf)
- 
- - Module 5 - Networking and Content Delivery - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_02.pdf) | [Part III](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_05_03.pdf)
- 
- - Module 6 - [Compute](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_06.pdf)
- 
- - Module 7 - Storage - [Part I](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_07_01.pdf) | [Part II](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_07_02.pdf)
- 
- - Module 8 - [Databases](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_08.pdf)
- 
- - Module 9 - [Cloud Architecture](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_09.pdf)
- 
- - Module 10 - [Automatic Scaling and Monitoring](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/PPTS/AcademyCloudFoundations_Module_10.pdf)
-
-
-## Courses & Labs
- 
- - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
- 
- - [QwikLabs](https://www.qwiklabs.com)
-
-
-## Practicals
-
- - [x] **AWS-CLF-C01 Assignments - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)**
-
- >[STAGE 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-1)
- 
- - Assignment 1 - [MCQ 40 Questions Test](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx)
- 
- - Assignment 2 - [AWS Calculator](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx)
- 
- - Assignment 3 - [EC2 Instance](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Instances.jpg) | [Launch Status](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-1/Launch%20Status.jpg) | **[YouTube Video](https://youtu.be/y-oACtu8djc)** - **BONUS**
-
- 
- >[STAGE 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-2)
- 
- - Assignment 1 - [Amazon S3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) | [Website](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/Website.zip) | **[YouTube Video](https://youtu.be/CnM07Vg7pW8)** - **BONUS**
- 
- - Assignment 2 - [Amazon Elastic Block Store - Volume](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
- 
- - Assignment 3 - [Amazon Elastic Block Store - Check](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
- 
- - Assignment 4 - [MCQ 40 Questions Test](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx)
-
-
- >[STAGE 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/STAGE-3)
- 
- - Assignment 1 - [Amazon EFS](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) | **[YouTube Video](https://youtu.be/jShMHcYju4Y)** - **BONUS**
- 
- - Assignment 2 - [Amazon RDS](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) | SQL -  [Transactions](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/Transactions.sql) | **[YouTube Video](https://youtu.be/9Quw6uln1Zc)** - **BONUS**
- 
- - Assignment 3 - [AuroraDB | VPC | RDS](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) | SQL -  [Transactions](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/Transactions.sql) | **[YouTube Video](https://youtu.be/EhV8I2ElVRk)** - **BONUS**
- 
- - Assignment 4 - [Load Balancers | Target Groups](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | **[YouTube Video](https://youtu.be/3TIzIHqkvvU)** - **BONUS**
-
-
- >[FINAL ASSESSMENT](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Final%20Assessment)
- 
- - [Assessment 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) - [Question Bank - 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/QuesBank-1.pdf) | [Answer Bank - 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/AnsBank-1.pdf)
- 
- - [Assessment 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) - [Question Bank - 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/QuesBank-2.pdf) | [Answer Bank - 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Final%20Assessment/AnsBank-2.pdf)
-
-
-## Honeywell - ICT Academy (Certification Course on Cloud)
-
-### [Certification Course on Cloud](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg) | [Course Progress](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
- 
- >**Module 1: Mock Test**
-
- - Stage 1 assessment
-     * _Cloud Concepts Overview_
-     * _Cloud Economics and Billing_
-     * _AWS Global Infrastructure Overview_
-     * _AWS Cloud Security_
-
- - [x] **[Stage 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) | [Score: 35](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201%20(Score%2035).png)**
- 
- - Stage 2 assessment
-     * _Networking and Content Delivery_
-     * _Compute_
-     * _Storage_
- 
- - [x] **[Stage 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) | [Score: 40](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202%20(Score%2040).png)**
- 
- - Stage 3 assessment
-     * _Databases_
-     * _Cloud Architecture_
-     * _Automatic Scaling and Monitoring_
- 
- - [x] **[Stage 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) | [Score: 37](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203%20(Score%2037).png)**
- 
- >**Module 2: AWS Cloud Final Assessment**
- 
- - _The final assessment includes all the chapters covered in Stage 1, 2 and 3._
- 
- - [x] **[AWS Cloud Final Assessment](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/blob/main/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)**
-
+</div>
 
 ---
 
-## AWS YouTube Playlist
+<div align="center">
 
-- [AMAZON EC2 INSTANCE TUTORIAL](https://youtu.be/y-oACtu8djc)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
-- [AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8)
-
-- [AMAZON EBS VOLUME TUTORIAL](https://youtu.be/D8Vt_wIuDHQ)
-
-- [AMAZON EFS TUTORIAL](https://youtu.be/jShMHcYju4Y)
-
-- [AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc)
-
-- [AMAZON VPC AURORADB TUTORIAL](https://youtu.be/EhV8I2ElVRk)
-
-- [AMAZON LOAD BALANCER TUTORIAL](https://youtu.be/3TIzIHqkvvU)
-
-- [AMAZON LIGHTSAIL WORDPRESS TUTORIAL](https://youtu.be/Ey8Tm4cC6yo)
-
-- [AMAZON IAM TUTORIAL](https://youtu.be/dnmuv0PC7W8)
-
-
-### AWS Project
- 
- - PIZZA ORDERING CHATBOT USING AMAZON LEX - **BONUS** 
- 
-   - [x] **[Complete Guide](https://youtu.be/FHbXSo95S7A)** 
-   - [x] **[Project Demo](https://youtu.be/6iLgN_1e4DU)** 
-   - [x] **[Presentation](https://youtu.be/cI8Wv2aW37I)**
+</div>
 
 ---
 
-<p align="center"> <b> 👉🏻 Created as a part of the 8th Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
- 
+<!-- AUTHORS -->
+<div align="center">
+
+  <a name="authors"></a>
+  ## Authors
+
+  **Terna Engineering College | Computer Engineering | Batch of 2022**
+
+  <table>
+  <tr>
+  <td align="center">
+  <a href="https://github.com/Amey-Thakur">
+  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
+  <sub><b>Amey Thakur</b></sub>
+  </a><br /><br />
+  <a href="https://orcid.org/0000-0001-5644-1575">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
+  </a>
+  </td>
+  <td align="center">
+  <a href="https://github.com/msatmod">
+  <img src="https://github.com/msatmod.png" width="180px;" alt="Mega Satish"/><br />
+  <sub><b>Mega Satish</b></sub>
+  </a><br /><br />
+  <a href="https://orcid.org/0000-0002-1430-4961">
+  <img src="https://img.shields.io/badge/ORCID-0000--0002--1430--4961-brightgreen" alt="ORCID"/>
+  </a>
+  </td>
+  </tr>
+  </table>
+
+</div>
+
+---
+
+<!-- OVERVIEW -->
+<a name="overview"></a>
+## Overview
+
+The **AWS Certified Cloud Practitioner** archive represents a significant milestone in my engineering journey, documenting the acquisition of fundamental cloud computing skills. Developed during the 8th semester of Computer Engineering, this project aggregates a complete lifecycle of certification preparation—from official AWS Academy foundations to specialized laboratory experiments.
+
+The repository serves as a centralized documentation hub for AWS services (EC2, S3, RDS, IAM, VPC), featuring structured "Mega Notes", official exam guides, and a dedicated series of YouTube tutorials demonstrating practical cloud deployments.
+
+> [!TIP]
+> **Learning Path**
+>
+> The repository is structured to follow a progressive learning path. Begin with the **Exam Guide** and **Books** section for theoretical grounding, followed by the **Mega Notes** and **PPT Modules** for conceptual depth, before proceeding to the **Practicals** and **Assessments** for hands-on verification.
+
+---
+
+<!-- FEATURES -->
+<a name="features"></a>
+## Features
+
+| Feature | Description |
+|---------|-------------|
+| **Structured Notes** | Comprehensive "Mega Notes" authored by Mega Satish covering 10 core modules. |
+| **Laboratory Labs** | Over 10 hands-on practicals documenting S3 hosting, RDS, VPC, and EFS. |
+| **Visual Tutorials** | Integrated YouTube playlist for visual walkthroughs of AWS deployments. |
+| **Certification Mock** | Multi-stage assessments for mock verification of CLF-C01 domains. |
+| **Capstone Case** | Project documentation for an Amazon Lex "Pizza Ordering Chatbot". |
+
+### Tech Stack / Certifications
+- **Primary Domain**: AWS Cloud Computing (CLF-C01 Foundation)
+- **Certifications**: Honeywell - ICT Academy (Cloud Computing Course)
+- **Core Services**: IAM, EC2, S3, EBS, EFS, RDS, VPC, ELB, Lex, Lightsail
+- **Documentation**: Markdown, PDF (Standard Exam Blueprints)
+
+---
+
+<!-- STRUCTURE -->
+<a name="project-structure"></a>
+## Project Structure
+
+```bash
+AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
+│
+├── docs/                            # Technical Documentation
+│   └── SPECIFICATION.md             # Certification Roadmap & Lab Flows
+│
+├── Mega/                            # Co-Author Portfolio Layer
+│   ├── assets/                      # Visual Assets for Mega Portfolio
+│   └── index.html                   # Integrated Portfolio Gateway
+│
+├── MEGA NOTES/                      # Core Concept Notes (Modules 1-10)
+│
+├── Course Materials/                # Foundational Learning Assets
+│   ├── Books/                       # Reference Guides & Ramp-Up Docs
+│   ├── PDFS/                        # Technical Lab Procedures
+│   └── PPTS/                        # Official Academy Modules (0-10)
+│
+├── Lab Work/                        # Practical Project Implementations
+│   ├── STAGE-1/                     # Foundational EC2 & Cost Tools
+│   ├── STAGE-2/                     # Storage Operations (S3/EBS)
+│   └── STAGE-3/                     # Advanced Database & ELB Tasks
+│
+├── Assessments/                     # Verification & Certifications
+│   ├── Final Assessment/            # Comprehensive Mock Exams
+│   └── Honeywell ICT Academy/       # Certification Mock Results
+│
+├── Source Code/                     # Script-based Implementations
+│   └── Transactions.sql             # RDS/Aurora SQL Test Scripts
+│
+├── CITATION.cff                     # Scholarly Citation Metadata
+├── codemeta.json                    # Machine-Readable Project Metadata
+├── LICENSE                          # MIT License Terms
+├── README.md                        # Primary Archival Entrance
+└── SECURITY.md                      # Security Policy & Protocol
+```
+
+---
+
+<!-- PRACTICALS -->
+<a name="practicals"></a>
+## Laboratory Practicals
+
+| Practical | Implementation | Video Guide |
+| :--- | :--- | :---: |
+| **Amazon S3** | Static Website Hosting & Bucket Policies | [YouTube](https://youtu.be/CnM07Vg7pW8) |
+| **Amazon EC2** | Linux/Windows Instances & Key Generation | [YouTube](https://youtu.be/y-oACtu8djc) |
+| **Amazon EBS** | Volume Management & Mounting | [YouTube](https://youtu.be/D8Vt_wIuDHQ) |
+| **Amazon RDS** | Relational Database Deployment (MySQL/Aurora) | [YouTube](https://youtu.be/9Quw6uln1Zc) |
+| **Amazon ELB** | Load Balancing & Target Groups | [YouTube](https://youtu.be/3TIzIHqkvvU) |
+
+---
+
+<!-- ASSESSMENTS -->
+<a name="assessments"></a>
+## Verification & Assessments
+
+### Honeywell - ICT Academy (Certification Course on Cloud)
+- **Stage 1**: Cloud Concepts, Economics, Infrastructure, Security.
+- **Stage 2**: Networking, Computation, Storage.
+- **Stage 3**: Databases, Architecture, Scaling & Monitoring.
+- **Final**: Comprehensive Assessment covering all 10 Cloud Domains.
+
+---
+
+<!-- QUICK START -->
+<a name="quick-start"></a>
+## Quick Start
+
+### 1. Repository Access
+```bash
+git clone https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01.git
+cd AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
+```
+
+### 2. Learning Journey
+- **Theory**: Explore the `/MEGA NOTES/` for core concept reviews.
+- **Practicals**: Follow the procedures in `/Course Materials/PDFS/` and execute steps in the AWS Console.
+- **Verification**: Test your knowledge using the mock exams in `/Assessments/Final Assessment/`.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use this project as a structured reference for cloud certification preparation, laboratory procedures, and concept visualization.
+
+**For Educators**  
+This repository provides a complete curriculum-aligned lab manual for Cloud Computing courses. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The technical specification and metadata provide insights into the structure of professional cloud certification roadmaps and the practical application of IaaS/PaaS services.
+
+---
+
+<!-- LICENSE -->
+<a name="license"></a>
+## License
+
+This repository and all its creative and technical assets are made available under the **MIT License**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+Copyright © 2022 Amey Thakur
+
+---
+
+<!-- ABOUT -->
+<a name="about-this-repository"></a>
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Co-Author (Mega Notes)**: [Mega Satish](https://github.com/msatmod)  
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University**: [University of Mumbai](https://mu.ac.in/)
+
+This project features the **AWS Certified Cloud Practitioner** archive, a collection of academic and professional resources documenting my early explorations in Cloud Architecture.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+
+### Acknowledgments
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+
+---
+
+<div align="center">
+
+  [↑ Back to Top](#readme-top)
+
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+  <br>
+
+  🔬 **[Cloud Computing Laboratory](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)** &nbsp; · &nbsp; ☁️ **[AWS-CLF-C01](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)**
+
+  ---
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>

@@ -1,0 +1,47 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01",
+    "description": "A comprehensive archive of Resources, Notes, PPTs, Labs, and Assessments for the AWS Certified Cloud Practitioner (CLF-C01) certification.",
+    "identifier": "AWS-CLF-C01",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "SQL",
+        "PowerPoint",
+        "PDF"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1430-4961",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateReleased": "2022-01-21",
+    "codeRepository": "https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01",
+    "developmentStatus": "complete",
+    "applicationCategory": "Cloud Computing / Certification Prep",
+    "keywords": [
+        "AWS",
+        "Cloud Practitioner",
+        "CLF-C01",
+        "Cloud Computing",
+        "Certification",
+        "Terna Engineering College"
+    ]
+}
