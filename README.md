@@ -105,39 +105,169 @@ AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 │   └── workflows/
 │       └── deploy.yml               # Automated Portfolio Deployment
 │
-├── docs/                            # Research & Specifications
-│   └── SPECIFICATION.md             # Technical Roadmap & Lab Flows
-│
-├── Mega/                            # Co-Author Portfolio Gateway
-│   ├── assets/                      # Visual Artifacts (CSS, JS, Fonts)
-│   ├── Mega.png                     # Primary Profile Identifier
-│   ├── Mega_Chair.png               # Brand Identifier (High-Res)
-│   ├── Mega_Professional.jpg        # Professional Portfolio Artifact
-│   └── index.html                   # Shared Authorship Gateway
-│
-├── MEGA NOTES/                      # Mega's Notes (Modules 1-10)
-│   └── [10 PDF Modules]             # Comprehensive Theoretical Corpus
+├── Assessments/                     # Verification & Certifications
+│   ├── Final Assessment/            # Final Mock Corpus & Answer Banks
+│   │   ├── 54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx
+│   │   ├── 54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx
+│   │   ├── AnsBank-1.pdf
+│   │   ├── AnsBank-2.pdf
+│   │   ├── QuesBank-1.pdf
+│   │   └── QuesBank-2.pdf
+│   └── Honeywell - ICT Academy (Certification Course on Cloud)/
+│       ├── Certification Course on Cloud.jpg
+│       ├── Course Progress.jpg
+│       ├── Honeywell AWS Training_BATCH 2022_Overall Attendance.pdf
+│       ├── Module 1 - Mock Test Stage 1 (Score 35).png
+│       ├── Module 1 - Mock Test Stage 1.jpg
+│       ├── Module 1 - Mock Test Stage 2 (Score 40).png
+│       ├── Module 1 - Mock Test Stage 2.jpg
+│       ├── Module 1 - Mock Test Stage 3 (Score 37).png
+│       ├── Module 1 - Mock Test Stage 3.jpg
+│       ├── Module 2 - AWS Cloud Final Assessment (Score 58).png
+│       └── Module 2 - AWS Cloud Final Assessment.jpg
 │
 ├── Course Materials/                # Foundational Learning Corpus
 │   ├── Books/                       # Reference Texts & Official Guides
+│   │   ├── Anthony Sequeira [Anthony Sequeira] - AWS Certified Cloud Practitioner (CLF-C01) Cert Guide, First Edition-Pearson IT Certification (2019).pdf
+│   │   ├── AWS Ramp-Up Guide Cloud Foundations.pdf
+│   │   └── AWS-Certified-Cloud-Practitioner Dumps PDF and VCE/
+│   │       ├── amazon.certforall.aws-certified-cloud-practitioner.vce.2021-nov-23.by.donahue.190q.vce.pdf
+│   │       ├── amazon.lead2pass.aws-certified-cloud-practitioner.vce.2021-sep-24.by.kenneth.136q.vce.pdf
+│   │       ├── amazon.passleader.aws-certified-cloud-practitioner.actual.test.2021-may-25.by.gabriel.463q.vce.pdf
+│   │       ├── amazon.passleader.aws-certified-cloud-practitioner.pdf.2021-oct-11.by.eric.307q.vce.pdf
+│   │       ├── amazon.prep4sure.aws-certified-cloud-practitioner.pdf.exam.2021-aug-30.by.solomon.116q.vce.pdf
+│   │       ├── amazon.selftestengine.aws-certified-cloud-practitioner.practice.test.2021-jul-07.by.noah.111q.vce.pdf
+│   │       ├── amazon.selftestengine.aws-certified-cloud-practitioner.rapidshare.2021-oct-17.by.silvester.273q.vce.pdf
+│   │       ├── amazon.test-inside.aws-certified-cloud-practitioner.practice.test.2021-dec-07.by.buck.246q.vce.pdf
+│   │       ├── amazon.testinises.aws-certified-cloud-practitioner.exam.prep.2021-aug-16.by.kent.56q.vce.pdf
+│   │       └── amazon.ucertify.aws-certified-cloud-practitioner.free.pdf.2021-aug-04.by.geoff.101q.vce.pdf
 │   ├── PDFS/                        # Step-by-Step Lab Procedures
+│   │   ├── 01_Key_Generation.pdf
+│   │   ├── 02_Windows_Instance_Creation.pdf
+│   │   ├── 03_Linux_Instance_Creation.pdf
+│   │   ├── 04_Elastic_IP_Address.pdf
+│   │   ├── 05_AMI.pdf
+│   │   ├── 06_Apache_WebServer_Windows.pdf
+│   │   ├── 07_Apache_WebServer_Linux.pdf
+│   │   ├── 08_IIS_WebServer_Windows.pdf
+│   │   ├── 09_Storage_EBS_Windows.pdf
+│   │   └── 10_Storage_EBS_Linux.pdf
 │   └── PPTS/                        # Official AWS Academy Modules
+│       ├── AcademyCloudFoundations_Module_00.pdf
+│       ├── AcademyCloudFoundations_Module_01.pdf
+│       ├── AcademyCloudFoundations_Module_02.pdf
+│       ├── AcademyCloudFoundations_Module_03.pdf
+│       ├── AcademyCloudFoundations_Module_04.pdf
+│       ├── AcademyCloudFoundations_Module_05_01.pdf
+│       ├── AcademyCloudFoundations_Module_05_02.pdf
+│       ├── AcademyCloudFoundations_Module_05_03.pdf
+│       ├── AcademyCloudFoundations_Module_06.pdf
+│       ├── AcademyCloudFoundations_Module_07_01.pdf
+│       ├── AcademyCloudFoundations_Module_07_02.pdf
+│       ├── AcademyCloudFoundations_Module_08.pdf
+│       ├── AcademyCloudFoundations_Module_09.pdf
+│       ├── AcademyCloudFoundations_Module_10.pdf
+│       └── PowerPoint/               # Binary Deck Artifacts
+│           ├── AcademyCloudFoundations_Module_00.pptx
+│           ├── AcademyCloudFoundations_Module_01.pptx
+│           ├── AcademyCloudFoundations_Module_02.pptx
+│           ├── AcademyCloudFoundations_Module_03.pptx
+│           ├── AcademyCloudFoundations_Module_04.pptx
+│           ├── AcademyCloudFoundations_Module_05_01.pptx
+│           ├── AcademyCloudFoundations_Module_05_02.pptx
+│           ├── AcademyCloudFoundations_Module_05_03.pptx
+│           ├── AcademyCloudFoundations_Module_06.pptx
+│           ├── AcademyCloudFoundations_Module_07_01.pptx
+│           ├── AcademyCloudFoundations_Module_07_02.pptx
+│           ├── AcademyCloudFoundations_Module_08.pptx
+│           ├── AcademyCloudFoundations_Module_09.pptx
+│           └── AcademyCloudFoundations_Module_10.pptx
+│
+├── docs/                            # Research & Specifications
+│   └── SPECIFICATION.md             # Technical Roadmap & Lab Flows
 │
 ├── Lab Work/                        # Multi-Stage Laboratory Results
 │   ├── STAGE-1/                     # EC2 Instance & Launch Analytics
+│   │   ├── Assignment-1/            # Mumbai & Virginia Cost Models
+│   │   │   ├── Assignment-1.txt
+│   │   │   ├── Mumbai All Upfront convertible with S3.csv
+│   │   │   ├── Mumbai All Upfront reserved with S3.csv
+│   │   │   ├── Mumbai On-Demand with S3.csv
+│   │   │   └── Virginia with S3.csv
+│   │   ├── B-50_AMEY_THAKUR_54920-Assignment-1.xlsx
+│   │   ├── B-50-AMEY_THAKUR_54920-Assignment-2.xlsx
+│   │   ├── Instances.jpg
+│   │   ├── Launch Status.jpg
+│   │   └── Stage-1 Assessment.txt
 │   ├── STAGE-2/                     # Storage, Motion, & Portfolios
 │   │   ├── Animation/               # Parallax Web Design Implementation
+│   │   │   ├── index.html
+│   │   │   ├── script.js
+│   │   │   └── style.css
 │   │   ├── Portfolio/               # Responsive Portfolio Module
-│   │   └── Website/                 # Cloud Landing Page Demonstration
+│   │   │   ├── assets/
+│   │   │   │   ├── css/
+│   │   │   │   │   └── styles.css   # Portfolio Logic & Layout
+│   │   │   │   ├── img/
+│   │   │   │   │   └── img.jpg
+│   │   │   │   └── js/
+│   │   │   │       └── main.js
+│   │   │   └── index.html
+│   │   ├── Website/                 # Cloud Landing Page Demonstration
+│   │   │   ├── assets/
+│   │   │   │   ├── css/
+│   │   │   │   │   └── styles.css
+│   │   │   │   ├── img/
+│   │   │   │   │   └── img.jpg
+│   │   │   │   └── js/
+│   │   │   │       └── main.js
+│   │   │   └── index.html
+│   │   ├── 54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx
+│   │   ├── 54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx
+│   │   ├── 54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx
+│   │   ├── 54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx
+│   │   ├── Animation.zip            # Portability Package
+│   │   ├── Portfolio.zip
+│   │   └── Website.zip
 │   └── STAGE-3/                     # Advanced Scaling & DB Tasks
+│       ├── 54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx
+│       ├── 54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx
+│       ├── 54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx
+│       ├── 54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx
+│       └── Stage-3 Assessment.txt
 │
-├── Assessments/                     # Mock Exams & Certifications
-│   ├── Final Assessment/            # Final Mock Corpus & Answer Banks
-│   └── Honeywell - ICT Academy/     # Official Progress Certifications
+├── Mega/                            # Co-Author Portfolio Gateway
+│   ├── assets/                      # Visual Artifacts (CSS, JS, Fonts)
+│   │   ├── css/
+│   │   │   └── styles.css
+│   │   ├── img/
+│   │   │   └── img.jpg
+│   │   └── js/
+│   │       └── main.js
+│   ├── index.html                   # Shared Authorship Gateway
+│   ├── Mega.png                     # Primary Profile Identifier
+│   ├── Mega_and_Hetvi.png           # Social Asset Artifact
+│   ├── Mega_Chair.png               # Brand Identifier (High-Res)
+│   ├── Mega_Dining.jpg              # Lifestyle Metadata
+│   └── Mega_Professional.jpg        # Professional Portfolio Artifact
+│
+├── MEGA NOTES/                      # Mega's Notes (Modules 1-10)
+│   ├── MODULE 1_ Cloud Concepts.pdf
+│   ├── MODULE 2_ Billing and Economy.pdf
+│   ├── MODULE 3_ AWS Global Infrastructure.pdf
+│   ├── MODULE 4_ AWS Cloud Security.pdf
+│   ├── MODULE 5_ Networking and Content Delivery.pdf
+│   ├── MODULE 6_ Compute Services Overview.pdf
+│   ├── MODULE 7_ Storage.pdf
+│   ├── MODULE 8_ Databases.pdf
+│   ├── MODULE 9_ Cloud Architecture.pdf
+│   └── MODULE 10_ Automatic Scaling and Monitoring.pdf
 │
 ├── Source Code/                     # Practice Implementations
 │   └── Transactions.sql             # SQL Logic for AWS RDS/Aurora Tests
 │
+├── .gitattributes                   # Git Attribute Configuration
+├── .gitignore                       # Git Exclusion Protocol
 ├── CITATION.cff                     # Scholarly Citation Metadata
 ├── codemeta.json                    # Machine-Readable Project Data
 ├── LICENSE                          # MIT Legal Notice & Copyright
