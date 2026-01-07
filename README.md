@@ -63,14 +63,14 @@
 <a name="overview"></a>
 ## Overview
 
-The **AWS Certified Cloud Practitioner** archive represents a significant milestone in my engineering journey, documenting the acquisition of fundamental cloud computing skills. Developed during the 8th semester of Computer Engineering, this project aggregates a complete lifecycle of certification preparation—from official AWS Academy foundations to specialized laboratory experiments.
+The **AWS Certified Cloud Practitioner** archive represents a significant milestone in our engineering journey, documenting the acquisition of fundamental cloud computing skills. Developed during the 8th semester of Computer Engineering, this project aggregates a complete lifecycle of certification preparation - from official AWS Academy foundations to specialized laboratory experiments.
 
-The repository serves as a centralized documentation hub for AWS services (EC2, S3, RDS, IAM, VPC), featuring structured "Mega Notes", official exam guides, and a dedicated series of YouTube tutorials demonstrating practical cloud deployments.
+The repository serves as a centralized documentation hub for AWS services (EC2, S3, RDS, IAM, VPC), featuring structured "Mega's Notes", official exam guides, and a dedicated series of YouTube tutorials demonstrating practical cloud deployments.
 
 > [!TIP]
 > **Learning Path**
 >
-> The repository is structured to follow a progressive learning path. Begin with the **Exam Guide** and **Books** section for theoretical grounding, followed by the **Mega Notes** and **PPT Modules** for conceptual depth, before proceeding to the **Practicals** and **Assessments** for hands-on verification.
+> The repository is structured to follow a progressive learning path. Begin with the **Exam Guide** and **Books** section for theoretical grounding, followed by the **Mega's Notes** and **PPT Modules** for conceptual depth, before proceeding to the **Practicals** and **Assessments** for hands-on verification.
 
 ---
 
@@ -80,7 +80,7 @@ The repository serves as a centralized documentation hub for AWS services (EC2, 
 
 | Feature | Description |
 |---------|-------------|
-| **Structured Notes** | Comprehensive "Mega Notes" authored by Mega Satish covering 10 core modules. |
+| **Structured Notes** | Comprehensive "Mega's Notes" authored by Mega Satish covering 10 core modules. |
 | **Laboratory Labs** | Over 10 hands-on practicals documenting S3 hosting, RDS, VPC, and EFS. |
 | **Visual Tutorials** | Integrated YouTube playlist for visual walkthroughs of AWS deployments. |
 | **Certification Mock** | Multi-stage assessments for mock verification of CLF-C01 domains. |
@@ -109,7 +109,7 @@ AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/
 │   ├── Mega_Professional.jpg        # Author Profile Artifact
 │   └── index.html                   # Integrated Portfolio Gateway
 │
-├── MEGA NOTES/                      # Core Concept Notes (Modules 1-10)
+├── MEGA NOTES/                      # Mega's Notes (Core Modules 1-10)
 │
 ├── Course Materials/                # Foundational Learning Assets
 │   ├── Books/                       # Reference Guides & Ramp-Up Docs
@@ -174,7 +174,7 @@ cd AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
 ```
 
 ### 2. Learning Journey
-- **Theory**: Explore the `/MEGA NOTES/` for core concept reviews.
+- **Theory**: Explore the **Mega's Notes** (`/MEGA NOTES/`) for core concept reviews.
 - **Practicals**: Follow the procedures in `/Course Materials/PDFS/` and execute steps in the AWS Console.
 - **Verification**: Test your knowledge using the mock exams in `/Assessments/Final Assessment/`.
 
@@ -216,12 +216,12 @@ Copyright © 2022 Amey Thakur & Mega Satish
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
-**Co-Author (Mega Notes)**: [Mega Satish](https://github.com/msatmod)  
+**Co-Author (Mega's Notes)**: [Mega Satish](https://github.com/msatmod)  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This project features the **AWS Certified Cloud Practitioner** archive, a collection of academic and professional resources documenting my early explorations in Cloud Architecture.
+This project features the **AWS Certified Cloud Practitioner** archive, a collection of academic and professional resources documenting our early explorations in Cloud Architecture.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
