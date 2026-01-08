@@ -3,7 +3,7 @@
   <a name="readme-top"></a>
   # AWS Certified Cloud Practitioner | CLF-C01
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-AWS%20Cloud-orange)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)
   [![Developed by Amey Thakur & Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue)](https://github.com/Amey-Thakur)
@@ -166,8 +166,10 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="courses-labs"></a>
 ## Courses & Labs
 
-- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
-- [QwikLabs](https://www.qwiklabs.com)
+| Platform | Description | Link |
+|:---:|:---|:---:|
+| 🎓 **AWS Skill Builder** | Official AWS learning platform with free courses | [Explore →](https://explore.skillbuilder.aws/learn) |
+| 🔬 **QwikLabs** | Hands-on lab environment for AWS practice | [Start Labs →](https://www.qwiklabs.com) |
 
 ---
 
@@ -175,44 +177,40 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="practicals"></a>
 ## Practicals
 
-- [x] **AWS-CLF-C01 Assignments - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)**
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?style=for-the-badge&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
->[STAGE 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Lab%20Work/STAGE-1)
+### STAGE 1 — EC2 & Cost Analysis
 
-- Assignment 1 - [MCQ 40 Questions Test](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx)
+| # | Assignment | Resources | Video Guide |
+|:-:|:---|:---|:---:|
+| 1 | **MCQ 40 Questions Test** | [📊 Excel](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx) | — |
+| 2 | **AWS Calculator** | [📊 Excel](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx) | — |
+| 3 | **EC2 Instance** | [🖼️ Instance](Lab%20Work/STAGE-1/Instances.jpg) · [🖼️ Launch Status](Lab%20Work/STAGE-1/Launch%20Status.jpg) | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/mqdefault.jpg)](https://youtu.be/y-oACtu8djc) |
 
-- Assignment 2 - [AWS Calculator](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx)
+### STAGE 2 — S3 & EBS Storage
 
-- Assignment 3 - [EC2 Instance](Lab%20Work/STAGE-1/Instances.jpg) | [Launch Status](Lab%20Work/STAGE-1/Launch%20Status.jpg) | **[YouTube Video](https://youtu.be/y-oACtu8djc)** - **BONUS**
+| # | Assignment | Resources | Video Guide |
+|:-:|:---|:---|:---:|
+| 1 | **Amazon S3** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [📦 Website](Lab%20Work/STAGE-2/Website.zip) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| 2 | **Amazon EBS - Volume** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
+| 3 | **Amazon EBS - Check** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
+| 4 | **MCQ 40 Questions Test** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) | — |
 
+### STAGE 3 — Databases & Load Balancing
 
->[STAGE 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Lab%20Work/STAGE-2)
+| # | Assignment | Resources | Video Guide |
+|:-:|:---|:---|:---:|
+| 1 | **Amazon EFS** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) | [![EFS](https://img.youtube.com/vi/jShMHcYju4Y/mqdefault.jpg)](https://youtu.be/jShMHcYju4Y) |
+| 2 | **Amazon RDS** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) · [💾 SQL](Source%20Code/Transactions.sql) | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/mqdefault.jpg)](https://youtu.be/9Quw6uln1Zc) |
+| 3 | **AuroraDB + VPC + RDS** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) · [💾 SQL](Source%20Code/Transactions.sql) | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk) |
+| 4 | **Load Balancers + Target Groups** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/mqdefault.jpg)](https://youtu.be/3TIzIHqkvvU) |
 
-- Assignment 1 - [Amazon S3](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) | [Website](Lab%20Work/STAGE-2/Website.zip) | **[YouTube Video](https://youtu.be/CnM07Vg7pW8)** - **BONUS**
+### FINAL ASSESSMENT
 
-- Assignment 2 - [Amazon Elastic Block Store - Volume](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
-
-- Assignment 3 - [Amazon Elastic Block Store - Check](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
-
-- Assignment 4 - [MCQ 40 Questions Test](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx)
-
-
->[STAGE 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Lab%20Work/STAGE-3)
-
-- Assignment 1 - [Amazon EFS](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) | **[YouTube Video](https://youtu.be/jShMHcYju4Y)** - **BONUS**
-
-- Assignment 2 - [Amazon RDS](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) | SQL - [Transactions](Source%20Code/Transactions.sql) | **[YouTube Video](https://youtu.be/9Quw6uln1Zc)** - **BONUS**
-
-- Assignment 3 - [AuroraDB | VPC | RDS](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) | SQL - [Transactions](Source%20Code/Transactions.sql) | **[YouTube Video](https://youtu.be/EhV8I2ElVRk)** - **BONUS**
-
-- Assignment 4 - [Load Balancers | Target Groups](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | **[YouTube Video](https://youtu.be/3TIzIHqkvvU)** - **BONUS**
-
-
->[FINAL ASSESSMENT](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Assessments/Final%20Assessment)
-
-- [Assessment 1](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) - [Question Bank - 1](Assessments/Final%20Assessment/QuesBank-1.pdf) | [Answer Bank - 1](Assessments/Final%20Assessment/AnsBank-1.pdf)
-
-- [Assessment 2](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) - [Question Bank - 2](Assessments/Final%20Assessment/QuesBank-2.pdf) | [Answer Bank - 2](Assessments/Final%20Assessment/AnsBank-2.pdf)
+| # | Assessment | Question Bank | Answer Bank | Results |
+|:-:|:---|:---:|:---:|:---:|
+| 1 | **Final Assessment Set 1** | [📄 PDF](Assessments/Final%20Assessment/QuesBank-1.pdf) | [📄 PDF](Assessments/Final%20Assessment/AnsBank-1.pdf) | [📊 Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) |
+| 2 | **Final Assessment Set 2** | [📄 PDF](Assessments/Final%20Assessment/QuesBank-2.pdf) | [📄 PDF](Assessments/Final%20Assessment/AnsBank-2.pdf) | [📊 Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) |
 
 ---
 
@@ -220,37 +218,26 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="assessments"></a>
 ## Honeywell - ICT Academy (Certification Course on Cloud)
 
-### [Certification Course on Cloud](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg) | [Course Progress](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
+<div align="center">
 
->**Module 1: Mock Test**
+[![Certification](https://img.shields.io/badge/🏆_Certification-Course_on_Cloud-gold?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg)
+[![Progress](https://img.shields.io/badge/📈_Course-Progress-blue?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
 
-- Stage 1 assessment
-    * _Cloud Concepts Overview_
-    * _Cloud Economics and Billing_
-    * _AWS Global Infrastructure Overview_
-    * _AWS Cloud Security_
+</div>
 
-- [x] **[Stage 1](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) | [Score: 35](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201%20(Score%2035).png)**
+### Module 1: Mock Test
 
-- Stage 2 assessment
-    * _Networking and Content Delivery_
-    * _Compute_
-    * _Storage_
+| Stage | Topics Covered | Score | Certificate |
+|:---:|:---|:---:|:---:|
+| **Stage 1** | Cloud Concepts, Economics & Billing, Global Infrastructure, Security | **35/50** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) |
+| **Stage 2** | Networking & Content Delivery, Compute, Storage | **40/50** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) |
+| **Stage 3** | Databases, Cloud Architecture, Scaling & Monitoring | **37/50** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) |
 
-- [x] **[Stage 2](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) | [Score: 40](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202%20(Score%2040).png)**
+### Module 2: AWS Cloud Final Assessment
 
-- Stage 3 assessment
-    * _Databases_
-    * _Cloud Architecture_
-    * _Automatic Scaling and Monitoring_
-
-- [x] **[Stage 3](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) | [Score: 37](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203%20(Score%2037).png)**
-
->**Module 2: AWS Cloud Final Assessment**
-
-- _The final assessment includes all the chapters covered in Stage 1, 2 and 3._
-
-- [x] **[AWS Cloud Final Assessment](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)**
+| Assessment | Description | Score | Certificate |
+|:---:|:---|:---:|:---:|
+| **Final** | Comprehensive assessment covering all 10 Cloud domains (Stages 1, 2 & 3) | **58/100** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) |
 
 ---
 
@@ -258,15 +245,22 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="youtube-playlist"></a>
 ## AWS YouTube Playlist
 
-| # | Video | Description | Date |
-|:-:|:---|:---|:---:|
-| 1 | [AMAZON EC2 INSTANCE TUTORIAL](https://youtu.be/y-oACtu8djc) | Linux/Windows Instances & Key Generation | January 30, 2022 |
-| 2 | [AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8) | Static Website Hosting & Bucket Policies | January 30, 2022 |
-| 3 | [AMAZON EBS VOLUME TUTORIAL](https://youtu.be/D8Vt_wIuDHQ) | Volume Management & Mounting | January 31, 2022 |
-| 4 | [AMAZON EFS TUTORIAL](https://youtu.be/jShMHcYju4Y) | Elastic File System Setup | January 31, 2022 |
-| 5 | [AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc) | Relational Database Service Deployment | January 31, 2022 |
-| 6 | [AMAZON VPC AURORADB TUTORIAL](https://youtu.be/EhV8I2ElVRk) | VPC Configuration & AuroraDB Setup | February 01, 2022 |
-| 7 | [AMAZON LOAD BALANCER TUTORIAL](https://youtu.be/3TIzIHqkvvU) | Load Balancing & Target Groups | February 01, 2022 |
+<div align="center">
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@amey-thakur)
+[![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-blue?style=for-the-badge&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
+
+</div>
+
+| # | Thumbnail | Video | Description | Date |
+|:-:|:---:|:---|:---|:---:|
+| 1 | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/default.jpg)](https://youtu.be/y-oACtu8djc) | [AMAZON EC2 INSTANCE](https://youtu.be/y-oACtu8djc) | Linux/Windows Instances & Key Generation | Jan 30, 2022 |
+| 2 | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/default.jpg)](https://youtu.be/CnM07Vg7pW8) | [AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8) | Static Website Hosting & Bucket Policies | Jan 30, 2022 |
+| 3 | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/default.jpg)](https://youtu.be/D8Vt_wIuDHQ) | [AMAZON EBS VOLUME](https://youtu.be/D8Vt_wIuDHQ) | Volume Management & Mounting | Jan 31, 2022 |
+| 4 | [![EFS](https://img.youtube.com/vi/jShMHcYju4Y/default.jpg)](https://youtu.be/jShMHcYju4Y) | [AMAZON EFS TUTORIAL](https://youtu.be/jShMHcYju4Y) | Elastic File System Setup | Jan 31, 2022 |
+| 5 | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/default.jpg)](https://youtu.be/9Quw6uln1Zc) | [AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc) | Relational Database Service | Jan 31, 2022 |
+| 6 | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/default.jpg)](https://youtu.be/EhV8I2ElVRk) | [AMAZON VPC AURORADB](https://youtu.be/EhV8I2ElVRk) | VPC Configuration & AuroraDB | Feb 01, 2022 |
+| 7 | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/default.jpg)](https://youtu.be/3TIzIHqkvvU) | [AMAZON LOAD BALANCER](https://youtu.be/3TIzIHqkvvU) | Load Balancing & Target Groups | Feb 01, 2022 |
 
 ---
 
@@ -323,10 +317,10 @@ Copyright © 2022 Amey Thakur & Mega Satish
 <a name="about-this-repository"></a>
 ## About This Repository
 
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
-**Co-Author (Mega's Notes)**: [Mega Satish](https://github.com/msatmod)  
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+
 **University**: [University of Mumbai](https://mu.ac.in/)
 
 This project features the **AWS Certified Cloud Practitioner** archive, a collection of academic and professional resources documenting our early explorations in Cloud Architecture.
