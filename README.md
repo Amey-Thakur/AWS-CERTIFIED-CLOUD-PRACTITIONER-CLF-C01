@@ -216,7 +216,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
 | 1 | **MCQ 40 Questions Test** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.pdf) | — |
-| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
 | 3 | **Amazon EBS - Volume** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 | 4 | **Amazon EBS - Check** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 
@@ -244,8 +244,8 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-[![Certification](https://img.shields.io/badge/Certification-Course_on_Cloud-gold?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg)
-[![Progress](https://img.shields.io/badge/Course-Progress-blue?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
+[![Certification](https://img.shields.io/badge/Certification-Course_on_Cloud-gold?style=flat)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg)
+[![Progress](https://img.shields.io/badge/Course-Progress-blue?style=flat)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
 
 </div>
 
