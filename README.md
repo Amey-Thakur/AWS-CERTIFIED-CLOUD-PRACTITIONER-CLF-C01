@@ -263,6 +263,20 @@ This collection includes **comprehensive reference materials** covering all majo
 |:---:|:---|:---:|:---:|
 | **Final** | Comprehensive assessment covering all 10 Cloud domains (Stages 1, 2 & 3) | **58/100** | [View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) |
 
+
+---
+
+<!-- PROJECT -->
+<a name="project"></a>
+## AWS Project
+
+This section highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR).
+
+| # | Project Name | Description | Resources |
+|:-:|:---|:---|:---:|
+| 1 | **Pizza Ordering Chatbot** | A conversational agent designed to handle pizza orders, demonstrating custom slot types, intent fulfillment, and conversational flow. | [Complete Guide](https://youtu.be/FHbXSo95S7A) · [Project Demo](https://youtu.be/6iLgN_1e4DU) · [Presentation](https://youtu.be/cI8Wv2aW37I) |
+
+
 ---
 
 <!-- AWS YOUTUBE PLAYLIST -->
@@ -286,28 +300,6 @@ This collection includes **comprehensive reference materials** covering all majo
 | 6 | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk)<br>[AMAZON VPC AURORADB](https://youtu.be/EhV8I2ElVRk) | VPC Configuration & AuroraDB | Feb 01, 2022 |
 | 7 | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/mqdefault.jpg)](https://youtu.be/3TIzIHqkvvU)<br>[AMAZON LOAD BALANCER](https://youtu.be/3TIzIHqkvvU) | Load Balancing & Target Groups | Feb 01, 2022 |
 
----
-
-
----
- 
- <!-- PROJECT -->
- <a name="project"></a>
- ## Project: Lex Chatbot Implementation
- 
- This section highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR) to build a conversational interface.
- 
- ### Pizza Ordering Chatbot
- 
- A robust conversational agent designed to handle pizza orders, demonstrating custom slot types, intent fulfillment, and conversational flow in a serverless environment.
- 
- <div align="center">
- 
- [![Guide](https://img.shields.io/badge/Documentation-Complete_Guide-blue?style=flat&logo=read-the-docs&logoColor=white)](https://youtu.be/FHbXSo95S7A)
- [![Demo](https://img.shields.io/badge/Project-Live_Demo-red?style=flat&logo=youtube&logoColor=white)](https://youtu.be/6iLgN_1e4DU)
- [![Presentation](https://img.shields.io/badge/Presentation-Design_Overview-gold?style=flat&logo=powerpoint&logoColor=white)](https://youtu.be/cI8Wv2aW37I)
- 
- </div>
 
 ---
 
