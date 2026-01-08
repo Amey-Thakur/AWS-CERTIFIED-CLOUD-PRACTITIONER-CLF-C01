@@ -192,9 +192,17 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="practicals"></a>
 ## Practicals
 
+<div align="center">
+
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
+</div>
+
+> [!TIP]
+> **Video Tutorials**: All practicals include step-by-step YouTube video guides demonstrating AWS console operations. Click the thumbnails in the "Video Guide" column to watch.
+
 ### STAGE 1 — EC2 & Cost Analysis
+
 
 
 | # | Assignment | Resources | Video Guide |
