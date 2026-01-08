@@ -10,7 +10,7 @@
 
   A comprehensive knowledge archive and laboratory portfolio documenting the path to the AWS Certified Cloud Practitioner (CLF-C01) certification, integrating theory, practicals, and assessments.
 
-  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/)** &nbsp;·&nbsp; **[Amey's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/amey/)**
+  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega's Portfolio](Mega/index.html)** &nbsp;·&nbsp; **[Amey's Portfolio](Mega/amey/index.html)**
 
 
 </div>
@@ -216,7 +216,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
 | 1 | **MCQ 40 Questions Test** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.pdf) | — |
-| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](Mega/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
 | 3 | **Amazon EBS - Volume** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 | 4 | **Amazon EBS - Check** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 
@@ -289,7 +289,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
   ### 👥 Authors
 
-  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/msatmod.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
   | :---: | :---: |
 
 </div>
