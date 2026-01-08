@@ -174,12 +174,12 @@ This collection includes **comprehensive reference materials** covering all majo
     <th align="center">Link</th>
   </tr>
   <tr>
-    <td>🎓 <b>AWS Skill Builder</b></td>
+    <td><b>AWS Skill Builder</b></td>
     <td>Official AWS learning platform with free courses</td>
     <td align="center"><a href="https://explore.skillbuilder.aws/learn">Explore →</a></td>
   </tr>
   <tr>
-    <td>🔬 <b>QwikLabs</b></td>
+    <td><b>QwikLabs</b></td>
     <td>Hands-on lab environment for AWS practice</td>
     <td align="center"><a href="https://www.qwiklabs.com">Start Labs →</a></td>
   </tr>
@@ -207,34 +207,34 @@ This collection includes **comprehensive reference materials** covering all majo
 
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
-| 1 | **MCQ 40 Questions Test** | [📊 Excel](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx) · [📄 PDF](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.pdf) | — |
-| 2 | **AWS Calculator** | [📊 Excel](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx) · [📄 PDF](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.pdf) | — |
-| 3 | **EC2 Instance** | [🖼️ Instance](Lab%20Work/STAGE-1/Instances.jpg) · [🖼️ Launch Status](Lab%20Work/STAGE-1/Launch%20Status.jpg) | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/mqdefault.jpg)](https://youtu.be/y-oACtu8djc) |
+| 1 | **MCQ 40 Questions Test** | [Excel](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx) · [PDF](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.pdf) | — |
+| 2 | **AWS Calculator** | [Excel](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx) · [PDF](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.pdf) | — |
+| 3 | **EC2 Instance** | [Instance](Lab%20Work/STAGE-1/Instances.jpg) · [Launch Status](Lab%20Work/STAGE-1/Launch%20Status.jpg) | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/mqdefault.jpg)](https://youtu.be/y-oACtu8djc) |
 
 ### STAGE 2 — S3 & EBS Storage
 
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
-| 1 | **Amazon S3** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [📦 Website](Lab%20Work/STAGE-2/Website.zip) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
-| 2 | **Amazon EBS - Volume** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
-| 3 | **Amazon EBS - Check** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
-| 4 | **MCQ 40 Questions Test** | [📊 Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) | — |
+| 1 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [Website](Lab%20Work/STAGE-2/Website.zip) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| 2 | **Amazon EBS - Volume** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
+| 3 | **Amazon EBS - Check** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
+| 4 | **MCQ 40 Questions Test** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) | — |
 
 ### STAGE 3 — Databases & Load Balancing
 
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
-| 1 | **Amazon EFS** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) | [![EFS](https://img.youtube.com/vi/jShMHcYju4Y/mqdefault.jpg)](https://youtu.be/jShMHcYju4Y) |
-| 2 | **Amazon RDS** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) · [💾 SQL](Source%20Code/Transactions.sql) | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/mqdefault.jpg)](https://youtu.be/9Quw6uln1Zc) |
-| 3 | **AuroraDB + VPC + RDS** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) · [💾 SQL](Source%20Code/Transactions.sql) | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk) |
-| 4 | **Load Balancers + Target Groups** | [📊 Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/mqdefault.jpg)](https://youtu.be/3TIzIHqkvvU) |
+| 1 | **Amazon EFS** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) | [![EFS](https://img.youtube.com/vi/jShMHcYju4Y/mqdefault.jpg)](https://youtu.be/jShMHcYju4Y) |
+| 2 | **Amazon RDS** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) · [SQL](Source%20Code/Transactions.sql) | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/mqdefault.jpg)](https://youtu.be/9Quw6uln1Zc) |
+| 3 | **AuroraDB + VPC + RDS** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) · [SQL](Source%20Code/Transactions.sql) | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk) |
+| 4 | **Load Balancers + Target Groups** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/mqdefault.jpg)](https://youtu.be/3TIzIHqkvvU) |
 
 ### FINAL ASSESSMENT
 
 | # | Assessment | Question Bank | Answer Bank | Results |
 |:-:|:---|:---:|:---:|:---:|
-| 1 | **Final Assessment Set 1** | [📄 PDF](Assessments/Final%20Assessment/QuesBank-1.pdf) | [📄 PDF](Assessments/Final%20Assessment/AnsBank-1.pdf) | [📊 Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) |
-| 2 | **Final Assessment Set 2** | [📄 PDF](Assessments/Final%20Assessment/QuesBank-2.pdf) | [📄 PDF](Assessments/Final%20Assessment/AnsBank-2.pdf) | [📊 Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) |
+| 1 | **Final Assessment Set 1** | [PDF](Assessments/Final%20Assessment/QuesBank-1.pdf) | [PDF](Assessments/Final%20Assessment/AnsBank-1.pdf) | [Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) |
+| 2 | **Final Assessment Set 2** | [PDF](Assessments/Final%20Assessment/QuesBank-2.pdf) | [PDF](Assessments/Final%20Assessment/AnsBank-2.pdf) | [Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) |
 
 ---
 
@@ -244,8 +244,8 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-[![Certification](https://img.shields.io/badge/🏆_Certification-Course_on_Cloud-gold?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg)
-[![Progress](https://img.shields.io/badge/📈_Course-Progress-blue?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
+[![Certification](https://img.shields.io/badge/Certification-Course_on_Cloud-gold?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg)
+[![Progress](https://img.shields.io/badge/Course-Progress-blue?style=for-the-badge)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
 
 </div>
 
@@ -253,15 +253,15 @@ This collection includes **comprehensive reference materials** covering all majo
 
 | Stage | Topics Covered | Score | Certificate |
 |:---:|:---|:---:|:---:|
-| **Stage 1** | Cloud Concepts, Economics & Billing, Global Infrastructure, Security | **35/50** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) |
-| **Stage 2** | Networking & Content Delivery, Compute, Storage | **40/50** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) |
-| **Stage 3** | Databases, Cloud Architecture, Scaling & Monitoring | **37/50** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) |
+| **Stage 1** | Cloud Concepts, Economics & Billing, Global Infrastructure, Security | **35/50** | [View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) |
+| **Stage 2** | Networking & Content Delivery, Compute, Storage | **40/50** | [View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) |
+| **Stage 3** | Databases, Cloud Architecture, Scaling & Monitoring | **37/50** | [View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) |
 
 ### Module 2: AWS Cloud Final Assessment
 
 | Assessment | Description | Score | Certificate |
 |:---:|:---|:---:|:---:|
-| **Final** | Comprehensive assessment covering all 10 Cloud domains (Stages 1, 2 & 3) | **58/100** | [🖼️ View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) |
+| **Final** | Comprehensive assessment covering all 10 Cloud domains (Stages 1, 2 & 3) | **58/100** | [View](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) |
 
 ---
 
