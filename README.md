@@ -18,7 +18,8 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
 
 </div>
 
@@ -100,6 +101,30 @@ All materials in this repository were gathered, organized, and documented by us 
 
 ---
 
+
+<!-- REFERENCE BOOKS -->
+<a name="reference-books"></a>
+## Reference Books
+
+This collection includes **comprehensive reference materials** covering all major topics:
+
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide](Course%20Materials/Books/Anthony%20Sequeira%20%5BAnthony%20Sequeira%5D%20-%20AWS%20Certified%20Cloud%20Practitioner%20%28CLF-C01%29%20Cert%20Guide%2C%20First%20Edition-Pearson%20IT%20Certification%20%282019%29.pdf) | Core Reference Guide (Anthony Sequeira) |
+| 2 | [AWS Ramp-Up Guide Cloud Foundations](Course%20Materials/Books/AWS%20Ramp-Up%20Guide%20Cloud%20Foundations.pdf) | Official AWS Learning Roadmap |
+| 3 | [AWS Academy Cloud Foundations - Module 00](Course%20Materials/PPTS/AcademyCloudFoundations_Module_00.pdf) | Course Introduction |
+| 4 | [AWS Academy Cloud Foundations - Module 01](Course%20Materials/PPTS/AcademyCloudFoundations_Module_01.pdf) | Cloud Concepts |
+| 5 | [AWS Academy Cloud Foundations - Module 02](Course%20Materials/PPTS/AcademyCloudFoundations_Module_02.pdf) | Cloud Economics and Billing |
+| 6 | [AWS Academy Cloud Foundations - Module 03](Course%20Materials/PPTS/AcademyCloudFoundations_Module_03.pdf) | AWS Global Infrastructure |
+| 7 | [AWS Academy Cloud Foundations - Module 04](Course%20Materials/PPTS/AcademyCloudFoundations_Module_04.pdf) | AWS Cloud Security |
+| 8 | [AWS Academy Cloud Foundations - Module 05](Course%20Materials/PPTS/AcademyCloudFoundations_Module_05_01.pdf) | Networking and Content Delivery |
+| 9 | [AWS Academy Cloud Foundations - Module 06](Course%20Materials/PPTS/AcademyCloudFoundations_Module_06.pdf) | Compute Services |
+| 10 | [AWS Academy Cloud Foundations - Module 07](Course%20Materials/PPTS/AcademyCloudFoundations_Module_07_01.pdf) | Storage |
+| 11 | [AWS Academy Cloud Foundations - Module 08](Course%20Materials/PPTS/AcademyCloudFoundations_Module_08.pdf) | Databases |
+| 12 | [AWS Academy Cloud Foundations - Module 09](Course%20Materials/PPTS/AcademyCloudFoundations_Module_09.pdf) | Cloud Architecture |
+| 13 | [AWS Academy Cloud Foundations - Module 10](Course%20Materials/PPTS/AcademyCloudFoundations_Module_10.pdf) | Automatic Scaling and Monitoring |
+
+---
 
 <!-- MEGA'S NOTES -->
 <a name="megas-notes"></a>
@@ -237,7 +262,8 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
 
   <br>
 
