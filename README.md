@@ -217,7 +217,7 @@ This collection includes **comprehensive reference materials** covering all majo
 |:-:|:---|:---|:---:|
 | 1 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/pages/stage-2-website/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
 | 2 | **Amazon EBS - Volume** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
-| 3 | **Amazon EBS - Check** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
+| 3 | **Amazon EBS - Check** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 | 4 | **MCQ 40 Questions Test** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) | — |
 
 ### STAGE 3 — Databases & Load Balancing
