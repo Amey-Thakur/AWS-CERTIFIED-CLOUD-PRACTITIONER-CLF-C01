@@ -1,33 +1,11 @@
 <!DOCTYPE html>
-<!--
-========================================================================================
-Project: AWS Certified Cloud Practitioner | CLF-C01 Archive
-File: Mega/index.html
-Description: Integrated Portfolio Gateway for co-author Mega Satish.
-             Demonstrates static website hosting capabilities on AWS S3.
-Authors: Amey Thakur & Mega Satish
-GitHub: https://github.com/Amey-Thakur/ | https://github.com/msatmod
-Repository: https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
-Release Date: 2022-01-21
-========================================================================================
--->
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Author Metadata -->
-    <meta name="author" content="Amey Thakur">
-    <meta name="description" content="Portfolio - Amey Thakur | Computer Engineering Student">
-    <meta name="keywords" content="Amey Thakur, Portfolio, Computer Engineering, Cloud Computing">
-
-    <!-- Favicon -->
-    <link rel="icon"
-        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎓</text></svg>">
-
     <link rel="stylesheet" href="assets/css/styles.css">
-    <title>Portfolio - Amey Thakur</title>
+    <title>Landing page responsive portfolio</title>
 </head>
 
 <body>
@@ -40,10 +18,7 @@ Release Date: 2022-01-21
     <header class="l-header">
         <nav class="nav bd-grid">
             <div>
-                <a href="../../" class="nav__logo" title="Back to Dashboard">
-                    <ion-icon name="arrow-back" style="margin-right: 5px; vertical-align: middle;"></ion-icon>
-                    Back to Portfolio
-                </a>
+                <a href="#" class="nav__logo">Website</a>
             </div>
 
             <div class="nav__toggle" id="nav-toggle">
@@ -56,7 +31,7 @@ Release Date: 2022-01-21
     <main class="l-main bd-grid">
         <div class="home">
             <div class="home__information">
-                <span class="home__pressent anime-text">Hello, My name is</span>
+                <span class="home__pressent anime-text">Namaskar, My name is</span>
                 <h1 class="home__title anime-text">Amey Thakur</h1>
                 <span class="home__skill anime-text">Student - Computer Engineering Department</span>
             </div>
@@ -64,43 +39,11 @@ Release Date: 2022-01-21
         </div>
     </main>
 
-    <style>
-        .back-to-dashboard {
-            position: fixed !important;
-            bottom: 20px !important;
-            right: 20px !important;
-            background: #2563eb !important;
-            color: white !important;
-            padding: 10px 20px !important;
-            border-radius: 50px !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
-            font-size: 14px !important;
-            font-weight: bold !important;
-            z-index: 2147483647 !important;
-            transition: transform 0.2s !important;
-            display: flex !important;
-            align-items: center !important;
-            gap: 8px !important;
-        }
-
-        .back-to-dashboard:hover {
-            transform: translateY(-2px) !important;
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4) !important;
-            color: white !important;
-        }
-    </style>
-    <a href="../../index.html" class="back-to-dashboard">
-        <span>&larr;</span> Back to Portfolio
-    </a>
-
     <!-- GSAP -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>
 
     <!-- MAIN -->
     <script src="assets/js/main.js"></script>
-    <script src="../assets/js/portfolio-enhancer.js"></script>
 
     <!-- ICONS -->
     <script type="module" src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons/ionicons.esm.js"></script>
