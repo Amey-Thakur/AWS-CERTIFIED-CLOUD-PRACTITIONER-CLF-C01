@@ -276,15 +276,15 @@ This collection includes **comprehensive reference materials** covering all majo
 
 </div>
 
-| # | Thumbnail | Video | Description | Date |
-|:-:|:---:|:---|:---|:---:|
-| 1 | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/default.jpg)](https://youtu.be/y-oACtu8djc) | [AMAZON EC2 INSTANCE](https://youtu.be/y-oACtu8djc) | Linux/Windows Instances & Key Generation | Jan 30, 2022 |
-| 2 | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/default.jpg)](https://youtu.be/CnM07Vg7pW8) | [AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8) | Static Website Hosting & Bucket Policies | Jan 30, 2022 |
-| 3 | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/default.jpg)](https://youtu.be/D8Vt_wIuDHQ) | [AMAZON EBS VOLUME](https://youtu.be/D8Vt_wIuDHQ) | Volume Management & Mounting | Jan 31, 2022 |
-| 4 | [![EFS](https://img.youtube.com/vi/jShMHcYju4Y/default.jpg)](https://youtu.be/jShMHcYju4Y) | [AMAZON EFS TUTORIAL](https://youtu.be/jShMHcYju4Y) | Elastic File System Setup | Jan 31, 2022 |
-| 5 | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/default.jpg)](https://youtu.be/9Quw6uln1Zc) | [AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc) | Relational Database Service | Jan 31, 2022 |
-| 6 | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/default.jpg)](https://youtu.be/EhV8I2ElVRk) | [AMAZON VPC AURORADB](https://youtu.be/EhV8I2ElVRk) | VPC Configuration & AuroraDB | Feb 01, 2022 |
-| 7 | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/default.jpg)](https://youtu.be/3TIzIHqkvvU) | [AMAZON LOAD BALANCER](https://youtu.be/3TIzIHqkvvU) | Load Balancing & Target Groups | Feb 01, 2022 |
+| # | Video Tutorial | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/mqdefault.jpg)](https://youtu.be/y-oACtu8djc)<br>[AMAZON EC2 INSTANCE](https://youtu.be/y-oACtu8djc) | Linux/Windows Instances & Key Generation | Jan 30, 2022 |
+| 2 | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8)<br>[AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8) | Static Website Hosting & Bucket Policies | Jan 30, 2022 |
+| 3 | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ)<br>[AMAZON EBS VOLUME](https://youtu.be/D8Vt_wIuDHQ) | Volume Management & Mounting | Jan 31, 2022 |
+| 4 | [![EFS](https://img.youtube.com/vi/jShMHcYju4Y/mqdefault.jpg)](https://youtu.be/jShMHcYju4Y)<br>[AMAZON EFS TUTORIAL](https://youtu.be/jShMHcYju4Y) | Elastic File System Setup | Jan 31, 2022 |
+| 5 | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/mqdefault.jpg)](https://youtu.be/9Quw6uln1Zc)<br>[AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc) | Relational Database Service | Jan 31, 2022 |
+| 6 | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk)<br>[AMAZON VPC AURORADB](https://youtu.be/EhV8I2ElVRk) | VPC Configuration & AuroraDB | Feb 01, 2022 |
+| 7 | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/mqdefault.jpg)](https://youtu.be/3TIzIHqkvvU)<br>[AMAZON LOAD BALANCER](https://youtu.be/3TIzIHqkvvU) | Load Balancing & Target Groups | Feb 01, 2022 |
 
 ---
 
