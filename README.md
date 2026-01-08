@@ -3,7 +3,7 @@
   <a name="readme-top"></a>
   # AWS Certified Cloud Practitioner | CLF-C01
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-AWS%20Cloud-orange)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)
   [![Developed by Amey Thakur & Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue)](https://github.com/Amey-Thakur)
@@ -304,10 +304,10 @@ The technical specification and metadata provide insights into the structure of 
 <a name="license"></a>
 ## License
 
-This repository and all its creative and technical assets are made available under the **MIT License**. See the [LICENSE](LICENSE) file for complete terms.
+This repository and all its creative and technical assets are made available under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. See the [LICENSE](LICENSE) file for complete terms.
 
 > [!NOTE]
-> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original authors.
 
 Copyright © 2022 Amey Thakur & Mega Satish
 
