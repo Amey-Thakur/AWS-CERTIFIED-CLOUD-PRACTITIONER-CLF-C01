@@ -327,7 +327,7 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 
 <div align="center">
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Amey%20Thakur-red?style=flat&logo=youtube)](https://www.youtube.com/@amey-thakur)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Amey%20Thakur-red?style=flat&logo=youtube)](https://www.youtube.com/@ameythakur)
 [![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-blue?style=flat&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
 </div>
