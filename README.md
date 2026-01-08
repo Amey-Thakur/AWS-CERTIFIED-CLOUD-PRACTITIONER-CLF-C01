@@ -277,7 +277,7 @@ This collection includes **comprehensive reference materials** covering all majo
 </div>
 
 | # | Video Tutorial | Description | Date |
-|:-:|:---|:---|:---:|
+|:-:|:---:|:---|:---:|
 | 1 | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/mqdefault.jpg)](https://youtu.be/y-oACtu8djc)<br>[AMAZON EC2 INSTANCE](https://youtu.be/y-oACtu8djc) | Linux/Windows Instances & Key Generation | Jan 30, 2022 |
 | 2 | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8)<br>[AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8) | Static Website Hosting & Bucket Policies | Jan 30, 2022 |
 | 3 | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ)<br>[AMAZON EBS VOLUME](https://youtu.be/D8Vt_wIuDHQ) | Volume Management & Mounting | Jan 31, 2022 |
