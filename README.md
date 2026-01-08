@@ -10,7 +10,7 @@
 
   A comprehensive knowledge archive and laboratory portfolio documenting the path to the AWS Certified Cloud Practitioner (CLF-C01) certification, integrating theory, practicals, and assessments.
 
-  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/)** &nbsp;·&nbsp; **[Amey's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/amey/)**
+  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/)** &nbsp;·&nbsp; **[Amey's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/amey/)**
 
 
 </div>
@@ -216,7 +216,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
 | 1 | **MCQ 40 Questions Test** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.pdf) | — |
-| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
 | 3 | **Amazon EBS - Volume** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 | 4 | **Amazon EBS - Check** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 
@@ -275,7 +275,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 **A specialized conversational implementation using Amazon Lex**
 
-[![Project Status: Completed](https://img.shields.io/badge/✅-Project%20Status-success?style=flat-square-square)](#miniproject)
+[![Project Status: Completed](https://img.shields.io/badge/✅-Project%20Status-success?style=flat-square)](#miniproject)
 [![Technology: Amazon Lex](https://img.shields.io/badge/🤖-Amazon%20Lex-orange?style=flat-square&logo=amazon-aws)](#miniproject)
 
 <br>
@@ -326,7 +326,7 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 
 <div align="center">
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@amey-thakur)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Amey%20Thakur-red?style=flat&logo=youtube)](https://www.youtube.com/@amey-thakur)
 [![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-blue?style=flat&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
 </div>
