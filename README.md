@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Project](#project) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Mini Project](#miniproject) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 
 
@@ -266,15 +266,38 @@ This collection includes **comprehensive reference materials** covering all majo
 
 ---
 
-<!-- PROJECT -->
-<a name="project"></a>
-## AWS Project
+<!-- MINI PROJECT -->
+<a name="miniproject"></a>
+<div align="center">
 
-This section highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR).
+# Mini Project
+### Pizza Ordering Chatbot
 
-| # | Project Name | Description | Resources |
+[![Project Status: Completed](https://img.shields.io/badge/Project%20Status-Completed-success?style=flat-square)](#miniproject)
+[![Technology: Amazon Lex](https://img.shields.io/badge/Technology-Amazon%20Lex-orange?style=flat-square&logo=amazon-aws)](#miniproject)
+
+This project highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR).
+
+<br>
+
+[![Pizza Ordering Chatbot](https://img.youtube.com/vi/6iLgN_1e4DU/maxresdefault.jpg)](https://youtu.be/6iLgN_1e4DU)
+
+</div>
+
+### 👥 Authors
+
+| Name | GitHub Profile |
+|:---:|:---:|
+| <img src="https://github.com/Amey-Thakur.png" width="100px;" alt="Amey Thakur"/><br><sub><b>Amey Thakur</b></sub> | [@Amey-Thakur](https://github.com/Amey-Thakur) |
+| <img src="https://github.com/msatmod.png" width="100px;" alt="Mega Satish"/><br><sub><b>Mega Satish</b></sub> | [@msatmod](https://github.com/msatmod) |
+
+### 🛠️ Resources
+
+| # | Resource | Description | Link |
 |:-:|:---|:---|:---:|
-| 1 | **Pizza Ordering Chatbot** | A conversational agent designed to handle pizza orders, demonstrating custom slot types, intent fulfillment, and conversational flow. | [Complete Guide](https://youtu.be/FHbXSo95S7A) · [Project Demo](https://youtu.be/6iLgN_1e4DU) · [Presentation](https://youtu.be/cI8Wv2aW37I) |
+| 1 | **Complete Guide** | Comprehensive video guide covering setup and configuration. | [Watch Now](https://youtu.be/FHbXSo95S7A) |
+| 2 | **Project Demo** | Live demonstration of the chatbot in action. | [Watch Now](https://youtu.be/6iLgN_1e4DU) |
+| 3 | **Presentation** | Technical presentation explaining the architecture and logic. | [Watch Now](https://youtu.be/cI8Wv2aW37I) |
 
 
 ---
@@ -362,7 +385,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Project](#project) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Mini Project](#miniproject) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 
 
