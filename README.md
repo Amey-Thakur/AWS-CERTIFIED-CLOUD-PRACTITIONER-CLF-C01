@@ -226,7 +226,7 @@ This collection includes **comprehensive reference materials** covering all majo
 |:-:|:---|:---|:---:|
 | 1 | **Amazon EFS** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.pdf) | [![EFS](https://img.youtube.com/vi/jShMHcYju4Y/mqdefault.jpg)](https://youtu.be/jShMHcYju4Y) |
 | 2 | **Amazon RDS** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) · [PDF](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.pdf) · [SQL](Source%20Code/Transactions.sql) | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/mqdefault.jpg)](https://youtu.be/9Quw6uln1Zc) |
-| 3 | **AuroraDB + VPC + RDS** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) · [SQL](Source%20Code/Transactions.sql) | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk) |
+| 3 | **AuroraDB + VPC + RDS** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) · [PDF](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.pdf) · [SQL](Source%20Code/Transactions.sql) | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk) |
 | 4 | **Load Balancers + Target Groups** | [Excel](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/mqdefault.jpg)](https://youtu.be/3TIzIHqkvvU) |
 
 ### FINAL ASSESSMENT
