@@ -1,9 +1,37 @@
 <!DOCTYPE html>
+<!--
+================================================================================
+    Portfolio - Amey Thakur
+    
+    Author: Amey Thakur
+    Course: Cloud Computing Laboratory (CSL803)
+    Roll No: B-50
+    Batch: 2018-2022
+    
+    Repository: https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB
+    GitHub: https://github.com/Amey-Thakur
+    
+    Description: A responsive portfolio landing page created as part of
+                 CCL Experiment 5 - Deploy static website using AWS S3.
+    
+    Date: February 2022
+================================================================================
+-->
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Author Metadata -->
+    <meta name="author" content="Amey Thakur">
+    <meta name="description" content="Portfolio - Amey Thakur | Computer Engineering Student">
+    <meta name="keywords" content="Amey Thakur, Portfolio, Computer Engineering, Cloud Computing">
+
+    <!-- Favicon -->
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎓</text></svg>">
+
     <link rel="stylesheet" href="assets/css/styles.css">
     <title>Portfolio - Amey Thakur</title>
 </head>
@@ -18,7 +46,10 @@
     <header class="l-header">
         <nav class="nav bd-grid">
             <div>
-                <a href="#" class="nav__logo">Website</a>
+                <a href="../" class="nav__logo" title="Back to Dashboard">
+                    <ion-icon name="arrow-back" style="margin-right: 5px; vertical-align: middle;"></ion-icon>
+                    Back to Portfolio
+                </a>
             </div>
 
             <div class="nav__toggle" id="nav-toggle">
@@ -39,11 +70,43 @@
         </div>
     </main>
 
+    <style>
+        .back-to-dashboard {
+            position: fixed !important;
+            bottom: 20px !important;
+            right: 20px !important;
+            background: #818181 !important;
+            color: white !important;
+            padding: 10px 20px !important;
+            border-radius: 50px !important;
+            text-decoration: none !important;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+            font-size: 14px !important;
+            font-weight: bold !important;
+            z-index: 2147483647 !important;
+            transition: transform 0.2s !important;
+            display: flex !important;
+            align-items: center !important;
+            gap: 8px !important;
+        }
+
+        .back-to-dashboard:hover {
+            transform: translateY(-2px) !important;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4) !important;
+            color: white !important;
+        }
+    </style>
+    <a href="../index.html" class="back-to-dashboard">
+        <span>&larr;</span> Back to Portfolio
+    </a>
+
     <!-- GSAP -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>
 
     <!-- MAIN -->
     <script src="assets/js/main.js"></script>
+    <script src="../assets/js/portfolio-enhancer.js"></script>
 
     <!-- ICONS -->
     <script type="module" src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons/ionicons.esm.js"></script>
