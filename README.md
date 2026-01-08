@@ -270,26 +270,27 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="miniproject"></a>
 <div align="center">
 
-## Mini Project
-### [🤖 Pizza Ordering Chatbot](https://youtu.be/6iLgN_1e4DU)
+  ## AWS Certified Cloud Practitioner Mini Project
+  ### [🤖 Pizza Ordering Chatbot](https://youtu.be/6iLgN_1e4DU)
 
-**A specialized conversational implementation using Amazon Lex**
+  **A specialized conversational implementation using Amazon Lex**
 
-[![Project Status: Completed](https://img.shields.io/badge/✅-Project%20Status-success?style=flat-square)](#miniproject)
-[![Technology: Amazon Lex](https://img.shields.io/badge/🤖-Amazon%20Lex-orange?style=flat-square&logo=amazon-aws)](#miniproject)
+  [![Presentation](https://img.shields.io/badge/📊-Presentation-blue.svg)](https://doi.org/10.13140/RG.2.2.19606.01607)
+  [![Demo](https://img.shields.io/badge/🎬-Project%20Demo-red.svg)](https://youtu.be/6iLgN_1e4DU)
+  [![Guide](https://img.shields.io/badge/📚-Complete%20Guide-green.svg)](https://youtu.be/FHbXSo95S7A)
 
-<br>
+  <br>
 
-<a href="https://youtu.be/6iLgN_1e4DU">
-  <img src="https://img.youtube.com/vi/6iLgN_1e4DU/maxresdefault.jpg" width="60%" alt="Pizza Ordering Chatbot Demo">
-</a>
+  <a href="https://youtu.be/6iLgN_1e4DU">
+    <img src="https://img.youtube.com/vi/6iLgN_1e4DU/maxresdefault.jpg" width="35%" alt="Pizza Ordering Chatbot Demo">
+  </a>
 
-<br>
+  <br>
 
-### 👥 Authors
+  ### 👥 Authors
 
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/msatmod.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
-| :---: | :---: |
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/msatmod.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
+  | :---: | :---: |
 
 </div>
 
@@ -309,7 +310,7 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 | 2 | Project Demo | Live demonstration of the chatbot in action | [View](https://youtu.be/6iLgN_1e4DU) |
 | 3 | Presentation | Technical presentation explaining the architecture and logic | [View](https://youtu.be/cI8Wv2aW37I) |
 
-### 📚 Research & Publications
+### Research & Publications
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:---:|
