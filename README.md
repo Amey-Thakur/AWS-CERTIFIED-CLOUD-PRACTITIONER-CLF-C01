@@ -234,7 +234,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Assessment | Question Bank | Answer Bank | Results |
 |:-:|:---|:---:|:---:|:---:|
 | 1 | **Final Assessment Set 1** | [PDF](Assessments/Final%20Assessment/QuesBank-1.pdf) | [PDF](Assessments/Final%20Assessment/AnsBank-1.pdf) | [Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) · [PDF](Assessments/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.pdf) |
-| 2 | **Final Assessment Set 2** | [PDF](Assessments/Final%20Assessment/QuesBank-2.pdf) | [PDF](Assessments/Final%20Assessment/AnsBank-2.pdf) | [Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) |
+| 2 | **Final Assessment Set 2** | [PDF](Assessments/Final%20Assessment/QuesBank-2.pdf) | [PDF](Assessments/Final%20Assessment/AnsBank-2.pdf) | [Excel](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) · [PDF](Assessments/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.pdf) |
 
 ---
 
