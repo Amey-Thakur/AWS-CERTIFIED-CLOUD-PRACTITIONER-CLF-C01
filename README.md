@@ -270,43 +270,53 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="miniproject"></a>
 <div align="center">
 
-# Mini Project
-### Pizza Ordering Chatbot
+## Mini Project
+### [🤖 Pizza Ordering Chatbot](https://youtu.be/6iLgN_1e4DU)
 
-[![Project Status: Completed](https://img.shields.io/badge/Project%20Status-Completed-success?style=flat-square)](#miniproject)
-[![Technology: Amazon Lex](https://img.shields.io/badge/Technology-Amazon%20Lex-orange?style=flat-square&logo=amazon-aws)](#miniproject)
+**A specialized conversational implementation using Amazon Lex**
 
-This project highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR).
+[![Project Status: Completed](https://img.shields.io/badge/✅-Project%20Status-success?style=flat-square-square)](#miniproject)
+[![Technology: Amazon Lex](https://img.shields.io/badge/🤖-Amazon%20Lex-orange?style=flat-square&logo=amazon-aws)](#miniproject)
 
 <br>
 
-[![Pizza Ordering Chatbot](https://img.youtube.com/vi/6iLgN_1e4DU/maxresdefault.jpg)](https://youtu.be/6iLgN_1e4DU)
+<a href="https://youtu.be/6iLgN_1e4DU">
+  <img src="https://img.youtube.com/vi/6iLgN_1e4DU/maxresdefault.jpg" width="60%" alt="Pizza Ordering Chatbot Demo">
+</a>
 
-</div>
+<br>
 
 ### 👥 Authors
 
-| Name | GitHub Profile |
-|:---:|:---:|
-| <img src="https://github.com/Amey-Thakur.png" width="100px;" alt="Amey Thakur"/><br><sub><b>Amey Thakur</b></sub> | [@Amey-Thakur](https://github.com/Amey-Thakur) |
-| <img src="https://github.com/msatmod.png" width="100px;" alt="Mega Satish"/><br><sub><b>Mega Satish</b></sub> | [@msatmod](https://github.com/msatmod) |
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/msatmod.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
+| :---: | :---: |
 
-### 🛠️ Resources
+</div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [**Mega Satish**](https://github.com/msatmod) for her meaningful contributions, guidance, and support that helped shape this work.*
+
+### Project Overview
+
+This section highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR). The chatbot is designed to handle complex conversational flows for ordering pizzas, utilizing custom slot types and intent fulfillment to provide a seamless user experience.
+
+### Resources
 
 | # | Resource | Description | Link |
 |:-:|:---|:---|:---:|
-| 1 | **Complete Guide** | Comprehensive video guide covering setup and configuration. | [Watch Now](https://youtu.be/FHbXSo95S7A) |
-| 2 | **Project Demo** | Live demonstration of the chatbot in action. | [Watch Now](https://youtu.be/6iLgN_1e4DU) |
-| 3 | **Presentation** | Technical presentation explaining the architecture and logic. | [Watch Now](https://youtu.be/cI8Wv2aW37I) |
+| 1 | Complete Guide | Comprehensive video guide covering setup and configuration | [View](https://youtu.be/FHbXSo95S7A) |
+| 2 | Project Demo | Live demonstration of the chatbot in action | [View](https://youtu.be/6iLgN_1e4DU) |
+| 3 | Presentation | Technical presentation explaining the architecture and logic | [View](https://youtu.be/cI8Wv2aW37I) |
 
 ### 📚 Research & Publications
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:---:|
-| 1 | **Preprint** | Early access version of the project documentation. | [viXra:2203.0172](https://vixra.org/abs/2203.0172) |
-| 2 | **Published Paper** | Official publication in IJRASET (Volume 10, Issue III). | [DOI:10.22214/ijraset](https://doi.org/10.22214/ijraset.2022.40861) |
-| 3 | **Certificate** | Publication and excellence certificate from IJRASET. | [View Certificate](https://www.ijraset.com/print-certificate/pizza-ordering-chatbot-using-amazon-lex) |
-| 4 | **Technical Presentation** | Detailed research presentation archived on ResearchGate. | [DOI:10.13140/RG.2.2.19606.01607](https://doi.org/10.13140/RG.2.2.19606.01607) |
+| 1 | Preprint | Early access version of the project documentation | [View](https://vixra.org/abs/2203.0172) |
+| 2 | Published Paper | Official publication in IJRASET (Volume 10, Issue III) | [View](https://doi.org/10.22214/ijraset.2022.40861) |
+| 3 | Certificate | Publication and excellence certificate from IJRASET | [View](https://www.ijraset.com/print-certificate/pizza-ordering-chatbot-using-amazon-lex) |
+| 4 | Technical Presentation | Detailed research presentation archived on ResearchGate | [View](https://doi.org/10.13140/RG.2.2.19606.01607) |
 
 ---
 
