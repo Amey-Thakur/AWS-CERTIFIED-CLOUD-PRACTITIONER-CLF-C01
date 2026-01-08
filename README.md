@@ -208,7 +208,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
 | 1 | **MCQ 40 Questions Test** | [📊 Excel](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx) · [📄 PDF](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.pdf) | — |
-| 2 | **AWS Calculator** | [📊 Excel](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx) | — |
+| 2 | **AWS Calculator** | [📊 Excel](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx) · [📄 PDF](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.pdf) | — |
 | 3 | **EC2 Instance** | [🖼️ Instance](Lab%20Work/STAGE-1/Instances.jpg) · [🖼️ Launch Status](Lab%20Work/STAGE-1/Launch%20Status.jpg) | [![EC2](https://img.youtube.com/vi/y-oACtu8djc/mqdefault.jpg)](https://youtu.be/y-oACtu8djc) |
 
 ### STAGE 2 — S3 & EBS Storage
