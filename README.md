@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 
 
@@ -180,34 +180,114 @@ This collection includes **comprehensive reference materials** covering all majo
 
 ---
 
+<!-- COURSES & LABS -->
+<a name="courses-labs"></a>
+## Courses & Labs
+
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+- [QwikLabs](https://www.qwiklabs.com)
+
+---
+
 <!-- PRACTICALS -->
 <a name="practicals"></a>
-## Laboratory Practicals
+## Practicals
+
+- [x] **AWS-CLF-C01 Assignments - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)**
+
+>[STAGE 1](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Lab%20Work/STAGE-1)
+
+- Assignment 1 - [MCQ 40 Questions Test](Lab%20Work/STAGE-1/B-50_AMEY_THAKUR_54920-Assignment-1.xlsx)
+
+- Assignment 2 - [AWS Calculator](Lab%20Work/STAGE-1/B-50-AMEY_THAKUR_54920-Assignment-2.xlsx)
+
+- Assignment 3 - [EC2 Instance](Lab%20Work/STAGE-1/Instances.jpg) | [Launch Status](Lab%20Work/STAGE-1/Launch%20Status.jpg) | **[YouTube Video](https://youtu.be/y-oACtu8djc)** - **BONUS**
 
 
+>[STAGE 2](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Lab%20Work/STAGE-2)
 
-| Practical | Implementation | Date | Video Guide |
-| :---: | :--- | :---: | :---: |
-| **Amazon S3** | Static Website Hosting & Bucket Policies | January 30, 2022 | [![Amazon S3](https://img.youtube.com/vi/CnM07Vg7pW8/0.jpg)](https://youtu.be/CnM07Vg7pW8) |
-| **Amazon EC2** | Linux/Windows Instances & Key Generation | January 30, 2022 | [![Amazon EC2](https://img.youtube.com/vi/y-oACtu8djc/0.jpg)](https://youtu.be/y-oACtu8djc) |
-| **Amazon EBS** | Volume Management & Mounting | January 31, 2022 | [![Amazon EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/0.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
-| **Amazon RDS** | Relational Database Deployment (MySQL/Aurora) | January 31, 2022 | [![Amazon RDS](https://img.youtube.com/vi/9Quw6uln1Zc/0.jpg)](https://youtu.be/9Quw6uln1Zc) |
-| **Amazon ELB** | Load Balancing & Target Groups | February 01, 2022 | [![Amazon ELB](https://img.youtube.com/vi/3TIzIHqkvvU/0.jpg)](https://youtu.be/3TIzIHqkvvU) |
+- Assignment 1 - [Amazon S3](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) | [Website](Lab%20Work/STAGE-2/Website.zip) | **[YouTube Video](https://youtu.be/CnM07Vg7pW8)** - **BONUS**
 
+- Assignment 2 - [Amazon Elastic Block Store - Volume](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
+
+- Assignment 3 - [Amazon Elastic Block Store - Check](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) | **[YouTube Video](https://youtu.be/D8Vt_wIuDHQ)** - **BONUS**
+
+- Assignment 4 - [MCQ 40 Questions Test](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx)
+
+
+>[STAGE 3](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Lab%20Work/STAGE-3)
+
+- Assignment 1 - [Amazon EFS](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-1.xlsx) | **[YouTube Video](https://youtu.be/jShMHcYju4Y)** - **BONUS**
+
+- Assignment 2 - [Amazon RDS](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-2.xlsx) | SQL - [Transactions](Source%20Code/Transactions.sql) | **[YouTube Video](https://youtu.be/9Quw6uln1Zc)** - **BONUS**
+
+- Assignment 3 - [AuroraDB | VPC | RDS](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-3.xlsx) | SQL - [Transactions](Source%20Code/Transactions.sql) | **[YouTube Video](https://youtu.be/EhV8I2ElVRk)** - **BONUS**
+
+- Assignment 4 - [Load Balancers | Target Groups](Lab%20Work/STAGE-3/54920-AMEY_THAKUR_STAGE-3_ASSIGNMENT-4.xlsx) | **[YouTube Video](https://youtu.be/3TIzIHqkvvU)** - **BONUS**
+
+
+>[FINAL ASSESSMENT](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/tree/main/Assessments/Final%20Assessment)
+
+- [Assessment 1](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-1.xlsx) - [Question Bank - 1](Assessments/Final%20Assessment/QuesBank-1.pdf) | [Answer Bank - 1](Assessments/Final%20Assessment/AnsBank-1.pdf)
+
+- [Assessment 2](Assessments/Final%20Assessment/54920-AMEY_THAKUR_FINAL_ASSESSMENT-2.xlsx) - [Question Bank - 2](Assessments/Final%20Assessment/QuesBank-2.pdf) | [Answer Bank - 2](Assessments/Final%20Assessment/AnsBank-2.pdf)
 
 ---
 
 <!-- ASSESSMENTS -->
 <a name="assessments"></a>
-## Verification & Assessments
+## Honeywell - ICT Academy (Certification Course on Cloud)
 
-### Honeywell - ICT Academy (Certification Course on Cloud)
-- **Stage 1**: Cloud Concepts, Economics, Infrastructure, Security.
-- **Stage 2**: Networking, Computation, Storage.
-- **Stage 3**: Databases, Architecture, Scaling & Monitoring.
-- **Final**: Comprehensive Assessment covering all 10 Cloud Domains.
+### [Certification Course on Cloud](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg) | [Course Progress](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
+
+>**Module 1: Mock Test**
+
+- Stage 1 assessment
+    * _Cloud Concepts Overview_
+    * _Cloud Economics and Billing_
+    * _AWS Global Infrastructure Overview_
+    * _AWS Cloud Security_
+
+- [x] **[Stage 1](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201.jpg) | [Score: 35](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%201%20(Score%2035).png)**
+
+- Stage 2 assessment
+    * _Networking and Content Delivery_
+    * _Compute_
+    * _Storage_
+
+- [x] **[Stage 2](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202.jpg) | [Score: 40](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%202%20(Score%2040).png)**
+
+- Stage 3 assessment
+    * _Databases_
+    * _Cloud Architecture_
+    * _Automatic Scaling and Monitoring_
+
+- [x] **[Stage 3](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203.jpg) | [Score: 37](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%201%20-%20Mock%20Test%20Stage%203%20(Score%2037).png)**
+
+>**Module 2: AWS Cloud Final Assessment**
+
+- _The final assessment includes all the chapters covered in Stage 1, 2 and 3._
+
+- [x] **[AWS Cloud Final Assessment](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment.jpg) | [Score: 58](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Module%202%20-%20AWS%20Cloud%20Final%20Assessment%20(Score%2058).png)**
 
 ---
+
+<!-- AWS YOUTUBE PLAYLIST -->
+<a name="youtube-playlist"></a>
+## AWS YouTube Playlist
+
+| # | Video | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [AMAZON EC2 INSTANCE TUTORIAL](https://youtu.be/y-oACtu8djc) | Linux/Windows Instances & Key Generation | January 30, 2022 |
+| 2 | [AMAZON S3 TUTORIAL](https://youtu.be/CnM07Vg7pW8) | Static Website Hosting & Bucket Policies | January 30, 2022 |
+| 3 | [AMAZON EBS VOLUME TUTORIAL](https://youtu.be/D8Vt_wIuDHQ) | Volume Management & Mounting | January 31, 2022 |
+| 4 | [AMAZON EFS TUTORIAL](https://youtu.be/jShMHcYju4Y) | Elastic File System Setup | January 31, 2022 |
+| 5 | [AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc) | Relational Database Service Deployment | January 31, 2022 |
+| 6 | [AMAZON VPC AURORADB TUTORIAL](https://youtu.be/EhV8I2ElVRk) | VPC Configuration & AuroraDB Setup | February 01, 2022 |
+| 7 | [AMAZON LOAD BALANCER TUTORIAL](https://youtu.be/3TIzIHqkvvU) | Load Balancing & Target Groups | February 01, 2022 |
+
+---
+
 
 <!-- QUICK START -->
 <a name="quick-start"></a>
@@ -285,7 +365,8 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
 
 
 
