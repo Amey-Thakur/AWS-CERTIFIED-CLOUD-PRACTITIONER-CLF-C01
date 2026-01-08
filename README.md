@@ -18,7 +18,8 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
 
 
 </div>
@@ -101,10 +102,30 @@ All materials in this repository were gathered, organized, and documented by us 
 
 ---
 
+<!-- FEATURES -->
+<a name="features"></a>
+## Features
+
+| Feature | Description |
+|---------|-------------|
+| **Structured Notes** | Comprehensive "Mega's Notes" authored by Mega Satish covering 10 core modules. |
+| **Laboratory Labs** | Over 10 hands-on practicals documenting S3 hosting, RDS, VPC, and EFS. |
+| **Visual Tutorials** | Integrated YouTube playlist for visual walkthroughs of AWS deployments. |
+| **Certification Mock** | Multi-stage assessments for mock verification of CLF-C01 domains. |
+| **Capstone Case** | Project documentation for an Amazon Lex "Pizza Ordering Chatbot". |
+
+### Tech Stack / Certifications
+- **Primary Domain**: AWS Cloud Computing (CLF-C01 Foundation)
+- **Certifications**: Honeywell - ICT Academy (Cloud Computing Course)
+- **Core Services**: IAM, EC2, S3, EBS, EFS, RDS, VPC, ELB, Lex, Lightsail
+- **Documentation**: Markdown, PDF (Standard Exam Blueprints)
+
+---
 
 <!-- REFERENCE BOOKS -->
 <a name="reference-books"></a>
 ## Reference Books
+
 
 This collection includes **comprehensive reference materials** covering all major topics:
 
@@ -157,11 +178,13 @@ This collection includes **comprehensive reference materials** covering all majo
 | 9 | [MODULE 9: Cloud Architecture](MEGA%20NOTES/MODULE%209_%20Cloud%20Architecture.pdf) | Well-Architected Framework, Design Principles |
 | 10 | [MODULE 10: Automatic Scaling and Monitoring](MEGA%20NOTES/MODULE%2010_%20Automatic%20Scaling%20and%20Monitoring.pdf) | Auto Scaling, CloudWatch, Load Balancing |
 
-
+---
 
 <!-- PRACTICALS -->
 <a name="practicals"></a>
 ## Laboratory Practicals
+
+
 
 | Practical | Implementation | Date | Video Guide |
 | :---: | :--- | :---: | :---: |
@@ -262,7 +285,8 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
 
 
   <br>
