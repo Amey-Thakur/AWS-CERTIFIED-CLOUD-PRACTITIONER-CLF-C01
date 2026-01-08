@@ -10,7 +10,7 @@
 
   A comprehensive knowledge archive and laboratory portfolio documenting the path to the AWS Certified Cloud Practitioner (CLF-C01) certification, integrating theory, practicals, and assessments.
 
-  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/)**
+  **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[YouTube Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** &nbsp;·&nbsp; **[Mega's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/)** &nbsp;·&nbsp; **[Amey's Portfolio](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/amey/)**
 
 
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Project](#project) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 
 
@@ -216,7 +216,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Assignment | Resources | Video Guide |
 |:-:|:---|:---|:---:|
 | 1 | **MCQ 40 Questions Test** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_MCQ.pdf) | — |
-| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/Mega/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
+| 2 | **Amazon S3** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-1.pdf) · [Live Site](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/amey/index.html) | [![S3](https://img.youtube.com/vi/CnM07Vg7pW8/mqdefault.jpg)](https://youtu.be/CnM07Vg7pW8) |
 | 3 | **Amazon EBS - Volume** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-2.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 | 4 | **Amazon EBS - Check** | [Excel](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.xlsx) · [PDF](Lab%20Work/STAGE-2/54920_AMEY_THAKUR_STAGE-2_ASSIGNMENT-3.pdf) | [![EBS](https://img.youtube.com/vi/D8Vt_wIuDHQ/mqdefault.jpg)](https://youtu.be/D8Vt_wIuDHQ) |
 
@@ -289,20 +289,25 @@ This collection includes **comprehensive reference materials** covering all majo
 ---
 
 
-<!-- QUICK START -->
-<a name="quick-start"></a>
-## Quick Start
-
-### 1. Repository Access
-```bash
-git clone https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01.git
-cd AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
-```
-
-### 2. Learning Journey
-- **Theory**: Explore the **Mega's Notes** (`/MEGA NOTES/`) for core concept reviews.
-- **Practicals**: Follow the procedures in `/Course Materials/PDFS/` and execute steps in the AWS Console.
-- **Verification**: Test your knowledge using the mock exams in `/Assessments/Final Assessment/`.
+---
+ 
+ <!-- PROJECT -->
+ <a name="project"></a>
+ ## Project: Lex Chatbot Implementation
+ 
+ This section highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR) to build a conversational interface.
+ 
+ ### Pizza Ordering Chatbot
+ 
+ A robust conversational agent designed to handle pizza orders, demonstrating custom slot types, intent fulfillment, and conversational flow in a serverless environment.
+ 
+ <div align="center">
+ 
+ [![Guide](https://img.shields.io/badge/Documentation-Complete_Guide-blue?style=flat&logo=read-the-docs&logoColor=white)](https://youtu.be/FHbXSo95S7A)
+ [![Demo](https://img.shields.io/badge/Project-Live_Demo-red?style=flat&logo=youtube&logoColor=white)](https://youtu.be/6iLgN_1e4DU)
+ [![Presentation](https://img.shields.io/badge/Presentation-Design_Overview-gold?style=flat&logo=powerpoint&logoColor=white)](https://youtu.be/cI8Wv2aW37I)
+ 
+ </div>
 
 ---
 
