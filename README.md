@@ -271,8 +271,8 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@amey-thakur)
-[![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-blue?style=for-the-badge&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@amey-thakur)
+[![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-blue?style=flat&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
 </div>
 
