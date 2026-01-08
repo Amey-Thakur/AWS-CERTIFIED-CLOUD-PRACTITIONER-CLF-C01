@@ -166,10 +166,24 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="courses-labs"></a>
 ## Courses & Labs
 
-| Platform | Description | Link |
-|:---:|:---|:---:|
-| 🎓 **AWS Skill Builder** | Official AWS learning platform with free courses | [Explore →](https://explore.skillbuilder.aws/learn) |
-| 🔬 **QwikLabs** | Hands-on lab environment for AWS practice | [Start Labs →](https://www.qwiklabs.com) |
+<table>
+  <tr>
+    <th align="center">Platform</th>
+    <th align="center">Description</th>
+    <th align="center">Link</th>
+  </tr>
+  <tr>
+    <td>🎓 <b>AWS Skill Builder</b></td>
+    <td>Official AWS learning platform with free courses</td>
+    <td align="center"><a href="https://explore.skillbuilder.aws/learn">Explore →</a></td>
+  </tr>
+  <tr>
+    <td>🔬 <b>QwikLabs</b></td>
+    <td>Hands-on lab environment for AWS practice</td>
+    <td align="center"><a href="https://www.qwiklabs.com">Start Labs →</a></td>
+  </tr>
+</table>
+
 
 ---
 
