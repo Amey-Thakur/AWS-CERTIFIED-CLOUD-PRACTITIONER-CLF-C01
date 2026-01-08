@@ -192,7 +192,12 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="practicals"></a>
 ## Practicals
 
-[![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?style=for-the-badge&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
+[![YouTube Playlist](https://img.shields.io/badge/▶_Watch_All-AWS_CLF--C01_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
+
+<a href="https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs">
+  <img src="https://img.youtube.com/vi/y-oACtu8djc/hqdefault.jpg" alt="AWS CLF-C01 Playlist" width="320"/>
+</a>
+
 
 ### STAGE 1 — EC2 & Cost Analysis
 
