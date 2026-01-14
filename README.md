@@ -230,9 +230,10 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <!-- MINI PROJECT -->
 <a name="miniproject"></a>
+## AWS Certified Cloud Practitioner Mini-Project
+
 <div align="center">
 
-  ## AWS Certified Cloud Practitioner Mini-Project
   ### [🤖 Pizza Ordering Chatbot](https://youtu.be/6iLgN_1e4DU)
 
   **An AI-powered conversational chatbot for pizza ordering built using AWS Lex, Lambda, and other serverless services.**
