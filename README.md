@@ -275,12 +275,12 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [**Presentation**](http://dx.doi.org/10.13140/RG.2.2.19606.01607) | Research paper presentation and visuals |
-| 2 | [**Project Report**](https://vixra.org/pdf/2203.0172v1.pdf) | Complete project documentation |
+| 2 | [**Project Report**](Mini-Project/Project%20Report.pdf) | Complete project documentation |
 | 3 | [**Project Demo**](http://dx.doi.org/10.13140/RG.2.2.14153.42088) | Live demonstration of the chatbot |
 | 4 | [**YouTube Video**](https://youtu.be/FHbXSo95S7A) | Project overview and explanation |
 | 5 | [**Demonstration**](https://youtu.be/6iLgN_1e4DU) | Live chatbot demonstration |
 | 6 | [**Published Paper**](https://doi.org/10.22214/ijraset.2022.40861) | IJRASET Publication |
-| 7 | [**Publication Certificate**](https://www.ijraset.com/print-certificate/pizza-ordering-chatbot-using-amazon-lex) | Official Certificate of Publication |
+| 7 | [**Publication Certificate**](Mini-Project/Publication%20Certificate.pdf) | Official Certificate of Publication |
 
 ---
 
