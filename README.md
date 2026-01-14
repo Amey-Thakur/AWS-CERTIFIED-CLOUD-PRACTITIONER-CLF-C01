@@ -305,6 +305,11 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 | 5 | [![RDS](https://img.youtube.com/vi/9Quw6uln1Zc/mqdefault.jpg)](https://youtu.be/9Quw6uln1Zc)<br>[AMAZON RDS TUTORIAL](https://youtu.be/9Quw6uln1Zc) | Relational Database Service | Jan 31, 2022 |
 | 6 | [![VPC](https://img.youtube.com/vi/EhV8I2ElVRk/mqdefault.jpg)](https://youtu.be/EhV8I2ElVRk)<br>[AMAZON VPC AURORADB](https://youtu.be/EhV8I2ElVRk) | VPC Configuration & AuroraDB | Feb 01, 2022 |
 | 7 | [![ELB](https://img.youtube.com/vi/3TIzIHqkvvU/mqdefault.jpg)](https://youtu.be/3TIzIHqkvvU)<br>[AMAZON LOAD BALANCER](https://youtu.be/3TIzIHqkvvU) | Load Balancing & Target Groups | Feb 01, 2022 |
+| 8 | [![Lightsail](https://img.youtube.com/vi/Ey8Tm4cC6yo/mqdefault.jpg)](https://youtu.be/Ey8Tm4cC6yo)<br>[AMAZON LIGHTSAIL WORDPRESS](https://youtu.be/Ey8Tm4cC6yo) | WordPress on Amazon Lightsail | Feb 24, 2022 |
+| 9 | [![IAM](https://img.youtube.com/vi/dnmuv0PC7W8/mqdefault.jpg)](https://youtu.be/dnmuv0PC7W8)<br>[AMAZON IAM TUTORIAL](https://youtu.be/dnmuv0PC7W8) | Identity & Access Management | Feb 25, 2022 |
+| 10 | [![Demo](https://img.youtube.com/vi/6iLgN_1e4DU/mqdefault.jpg)](https://youtu.be/6iLgN_1e4DU)<br>[PIZZA ORDERING CHATBOT USING AMAZON LEX - AWS PROJECT DEMO](https://youtu.be/6iLgN_1e4DU) | AWS Project Live Demonstration | Mar 18, 2022 |
+| 11 | [![Project](https://img.youtube.com/vi/FHbXSo95S7A/mqdefault.jpg)](https://youtu.be/FHbXSo95S7A)<br>[PIZZA ORDERING CHATBOT USING AMAZON LEX - AWS PROJECT](https://youtu.be/FHbXSo95S7A) | Complete AWS Project Walkthrough | Feb 20, 2022 |
+| 12 | [![Presentation](https://img.youtube.com/vi/cI8Wv2aW37I/mqdefault.jpg)](https://youtu.be/cI8Wv2aW37I)<br>[PIZZA ORDERING CHATBOT USING AMAZON LEX - PRESENTATION](https://youtu.be/cI8Wv2aW37I) | Project Research Presentation | Aug 02, 2022 |
 
 
 ---
