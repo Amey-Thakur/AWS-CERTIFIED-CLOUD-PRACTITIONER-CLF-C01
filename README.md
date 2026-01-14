@@ -36,28 +36,8 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
-  <sub><b>Amey Thakur</b></sub>
-  </a><br /><br />
-  <a href="https://orcid.org/0000-0001-5644-1575">
-  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/msatmod">
-  <img src="Mega/Mega.png" width="180px;" alt="Mega Satish"/><br />
-  <sub><b>Mega Satish</b></sub>
-  </a><br /><br />
-  <a href="https://orcid.org/0000-0002-1430-4961">
-  <img src="https://img.shields.io/badge/ORCID-0000--0002--1430--4961-brightgreen" alt="ORCID"/>
-  </a>
-  </td>
-  </tr>
-  </table>
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1430--4961-green.svg)](https://orcid.org/0000-0002-1430-4961) |
+| :---: | :---: |
 
 </div>
 
@@ -327,7 +307,7 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 
 <div align="center">
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Amey%20Thakur-red?style=flat&logo=youtube)](https://www.youtube.com/@amey-thakur)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Amey%20Thakur-red?style=flat&logo=youtube)](https://www.youtube.com/@ameythakur)
 [![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-blue?style=flat&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
 </div>
@@ -388,7 +368,7 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 This project features the **AWS Certified Cloud Practitioner** archive, a collection of academic and professional resources documenting our early explorations in Cloud Architecture.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
@@ -412,7 +392,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Cloud Computing Laboratory](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)** &nbsp;·&nbsp; ☁️ **[AWS-CLF-C01](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)**
+  🔬 **[Cloud Computing Laboratory](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)** &nbsp;·&nbsp; ☁️ **[AWS-CLF-C01](https://amey-thakur.github.io/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/index.html)**
 
 </div>
 
