@@ -272,20 +272,15 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 
 ### Resources
 
-| # | Resource | Description | Link |
+| # | Resource | Description | Marks |
 |:-:|:---|:---|:---:|
-| 1 | Complete Guide | Comprehensive video guide covering setup and configuration | [View](https://youtu.be/FHbXSo95S7A) |
-| 2 | Project Demo | Live demonstration of the chatbot in action | [View](https://youtu.be/6iLgN_1e4DU) |
-| 3 | Presentation | Technical presentation explaining the architecture and logic | [View](https://youtu.be/cI8Wv2aW37I) |
-
-### Research & Publications
-
-| # | Document | Description | Link |
-|:-:|:---|:---|:---:|
-| 1 | Preprint | Early access version of the project documentation | [View](https://vixra.org/abs/2203.0172) |
-| 2 | Published Paper | Official publication in IJRASET (Volume 10, Issue III) | [View](https://doi.org/10.22214/ijraset.2022.40861) |
-| 3 | Certificate | Publication and excellence certificate from IJRASET | [View](https://www.ijraset.com/print-certificate/pizza-ordering-chatbot-using-amazon-lex) |
-| 4 | Technical Presentation | Detailed research presentation archived on ResearchGate | [View](https://doi.org/10.13140/RG.2.2.19606.01607) |
+| 1 | [**Presentation**](https://doi.org/10.13140/RG.2.2.19606.01607) | Research paper presentation and visuals | 5/5 |
+| 2 | [**Project Report**](https://vixra.org/abs/2203.0172) | Complete project documentation | 5/5 |
+| 3 | [**Project Demo**](https://doi.org/10.13140/RG.2.2.14153.42088) | Live demonstration of the chatbot | — |
+| 4 | [**YouTube Video**](https://youtu.be/FHbXSo95S7A) | Project overview and explanation | — |
+| 5 | [**Demonstration**](https://youtu.be/6iLgN_1e4DU) | Live chatbot demonstration | — |
+| 6 | [**Published Paper**](https://doi.org/10.22214/ijraset.2022.40861) | IJRASET Publication | — |
+| 7 | [**Publication Certificate**](https://www.ijraset.com/print-certificate/pizza-ordering-chatbot-using-amazon-lex) | Official Certificate of Publication | — |
 
 ---
 
