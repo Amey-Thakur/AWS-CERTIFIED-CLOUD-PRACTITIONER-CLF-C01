@@ -232,7 +232,7 @@ This collection includes **comprehensive reference materials** covering all majo
 <a name="miniproject"></a>
 <div align="center">
 
-  ## AWS Certified Cloud Practitioner Mini Project
+  ## AWS Certified Cloud Practitioner Mini-Project
   ### [🤖 Pizza Ordering Chatbot](https://youtu.be/6iLgN_1e4DU)
 
   **A specialized conversational implementation using Amazon Lex**
@@ -249,16 +249,22 @@ This collection includes **comprehensive reference materials** covering all majo
 
   <br>
 
-  ### 👥 Authors
+  ### Authors
 
-  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
-  | :---: | :---: |
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1430--4961-green.svg)](https://orcid.org/0000-0002-1430-4961) |
+| :---: | :---: |
 
 </div>
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to [**Mega Satish**](https://github.com/msatmod) for her meaningful contributions, guidance, and support that helped shape this work.*
+
+> [!NOTE]
+> **Research Impact & Certification:** This project was published as an academic research paper in **International Journal for Research in Applied Science and Engineering Technology (IJRASET)** (Volume 10, Issue III) and is also available as a preprint on **viXra**. The project received an official **Publication Certificate** for its research contribution to AI and Soft Computing.
+> - [Preprint @viXra](https://vixra.org/pdf/2203.0172v1.pdf)
+> - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2022.40861)
+> - [Publication Certificate](https://www.ijraset.com/print-certificate/pizza-ordering-chatbot-using-amazon-lex)
 
 ### Project Overview
 
