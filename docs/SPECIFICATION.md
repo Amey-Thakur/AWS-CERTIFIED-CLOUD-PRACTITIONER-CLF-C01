@@ -1,8 +1,8 @@
-# Technical Specification: AWS Certified Cloud Practitioner (CLF-C01)
+# Technical Specification: AWS Certified Cloud Practitioner | CLF-C01
 
 ## Architectural Overview
 
-The **AWS-CLF-C01** repository is a structured knowledge archive documenting the certification roadmap for the AWS Certified Cloud Practitioner. The system is architected to facilitate a multi-stage learning progression, integrating theoretical foundations (Mega Notes/PPTs) with practical laboratory implementations on the AWS Cloud environment.
+The **AWS Certified Cloud Practitioner | CLF-C01** repository is a structured knowledge archive documenting the certification roadmap for the AWS Certified Cloud Practitioner. The system is architected to facilitate a multi-stage learning progression, integrating theoretical foundations (Mega Notes/PPTs) with practical laboratory implementations on the AWS Cloud environment.
 
 ### Certification Roadmap & Flow
 
