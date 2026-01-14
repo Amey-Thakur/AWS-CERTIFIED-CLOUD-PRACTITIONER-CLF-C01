@@ -235,7 +235,7 @@ This collection includes **comprehensive reference materials** covering all majo
   ## AWS Certified Cloud Practitioner Mini-Project
   ### [🤖 Pizza Ordering Chatbot](https://youtu.be/6iLgN_1e4DU)
 
-  **A specialized conversational implementation using Amazon Lex**
+  **An AI-powered conversational chatbot for pizza ordering built using AWS Lex, Lambda, and other serverless services.**
 
   [![Presentation](https://img.shields.io/badge/📊-Presentation-blue.svg)](https://doi.org/10.13140/RG.2.2.19606.01607)
   [![Demo](https://img.shields.io/badge/🎬-Project%20Demo-red.svg)](https://youtu.be/6iLgN_1e4DU)
@@ -274,9 +274,9 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**Presentation**](https://doi.org/10.13140/RG.2.2.19606.01607) | Research paper presentation and visuals |
-| 2 | [**Project Report**](https://vixra.org/abs/2203.0172) | Complete project documentation |
-| 3 | [**Project Demo**](https://doi.org/10.13140/RG.2.2.14153.42088) | Live demonstration of the chatbot |
+| 1 | [**Presentation**](http://dx.doi.org/10.13140/RG.2.2.19606.01607) | Research paper presentation and visuals |
+| 2 | [**Project Report**](https://vixra.org/pdf/2203.0172v1.pdf) | Complete project documentation |
+| 3 | [**Project Demo**](http://dx.doi.org/10.13140/RG.2.2.14153.42088) | Live demonstration of the chatbot |
 | 4 | [**YouTube Video**](https://youtu.be/FHbXSo95S7A) | Project overview and explanation |
 | 5 | [**Demonstration**](https://youtu.be/6iLgN_1e4DU) | Live chatbot demonstration |
 | 6 | [**Published Paper**](https://doi.org/10.22214/ijraset.2022.40861) | IJRASET Publication |
