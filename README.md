@@ -260,15 +260,15 @@ This collection includes **comprehensive reference materials** covering all majo
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to [**Mega Satish**](https://github.com/msatmod) for her meaningful contributions, guidance, and support that helped shape this work.*
 
+### Project Overview
+
+This section highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR). The chatbot is designed to handle complex conversational flows for ordering pizzas, utilizing custom slot types and intent fulfillment to provide a seamless user experience.
+
 > [!NOTE]
 > **Research Impact & Certification:** This project was published as an academic research paper in **International Journal for Research in Applied Science and Engineering Technology (IJRASET)** (Volume 10, Issue III) and is also available as a preprint on **viXra**. The project received an official **Publication Certificate** for its research contribution to AI and Soft Computing.
 > - [Preprint @viXra](https://vixra.org/pdf/2203.0172v1.pdf)
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2022.40861)
 > - [Publication Certificate](https://www.ijraset.com/print-certificate/pizza-ordering-chatbot-using-amazon-lex)
-
-### Project Overview
-
-This section highlights a specialized implementation using **Amazon Lex**, demonstrating the integration of Natural Language Understanding (NLU) and Automatic Speech Recognition (ASR). The chatbot is designed to handle complex conversational flows for ordering pizzas, utilizing custom slot types and intent fulfillment to provide a seamless user experience.
 
 ### Resources
 
