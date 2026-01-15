@@ -322,10 +322,10 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use this project as a structured reference for cloud certification preparation, laboratory procedures, and concept visualization.
+Use this project as a structured reference for cloud certification preparation, laboratory procedures, and concept visualization. The source code is available for study to facilitate self-paced learning and exploration of cloud architecture.
 
 **For Educators**  
-This repository provides a complete curriculum-aligned lab manual for Cloud Computing courses. Attribution is appreciated when utilizing content.
+This repository provides a complete curriculum-aligned lab manual for Cloud Computing Laboratory (`CSL803`). Attribution is appreciated when utilizing content.
 
 **For Researchers**  
 The technical specification and metadata provide insights into the structure of professional cloud certification roadmaps and the practical application of IaaS/PaaS services.
