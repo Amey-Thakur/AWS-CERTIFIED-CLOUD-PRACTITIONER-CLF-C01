@@ -54,4 +54,4 @@ The repository documents precise procedures for deploying and managing cloud res
 
 ---
 
-*Technical Specification | Cloud Computing Archive | Version 1.0*
+*Technical Specification | Cloud Computing | Version 1.0*
