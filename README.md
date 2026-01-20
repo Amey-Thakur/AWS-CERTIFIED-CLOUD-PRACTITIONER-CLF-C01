@@ -275,9 +275,9 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**Presentation**](http://dx.doi.org/10.13140/RG.2.2.19606.01607) | Research paper presentation and visuals |
+| 1 | [**Presentation**](https://doi.org/10.13140/RG.2.2.19606.01607) | Research paper presentation and visuals |
 | 2 | [**Project Report**](Mini-Project/Project%20Report.pdf) | Complete project documentation |
-| 3 | [**Project Demo**](http://dx.doi.org/10.13140/RG.2.2.14153.42088) | Live demonstration of the chatbot |
+| 3 | [**Project Demo**](https://doi.org/10.13140/RG.2.2.14153.42088) | Live demonstration of the chatbot |
 | 4 | [**YouTube Video**](https://youtu.be/FHbXSo95S7A) | Project overview and explanation |
 | 5 | [**Demonstration**](https://youtu.be/6iLgN_1e4DU) | Live chatbot demonstration |
 | 6 | [**Published Paper**](https://doi.org/10.22214/ijraset.2022.40861) | IJRASET Publication |

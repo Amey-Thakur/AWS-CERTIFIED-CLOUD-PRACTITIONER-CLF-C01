@@ -4,7 +4,7 @@
     "name": "AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01",
     "description": "A comprehensive archive of Resources, Notes, PPTs, Labs, and Assessments for the AWS Certified Cloud Practitioner (CLF-C01) certification.",
     "identifier": "AWS-CLF-C01",
-    "license": "https://spdx.org/licenses/MIT.html",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
     "programmingLanguage": [
         "SQL",
         "PowerPoint",
