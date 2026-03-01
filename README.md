@@ -80,7 +80,6 @@ As a computer engineer, understanding cloud computing is crucial for developing 
 > [!NOTE]
 > All materials in this repository were gathered, organized, and documented by us during our undergraduate studies (2018-2022) as part of our coursework and exam preparation.
 
-
 > [!TIP]
 > **Learning Path**: The repository is structured to follow a progressive learning path. Begin with the **Course Materials** for theoretical grounding, followed by **Mega's Notes** for conceptual depth, before proceeding to the **Practicals** and **Assessments** for hands-on verification.
 
