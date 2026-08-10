@@ -1,12 +1,11 @@
 <div align="center">
 
-  <a name="readme-top"></a>
   # AWS Certified Cloud Practitioner | CLF-C01
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-AWS%20Cloud-orange)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)
-  [![Developed by Amey Thakur & Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue)](https://github.com/Amey-Thakur)
+  ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
+  [![Technology](https://img.shields.io/badge/Technology-AWS%20Cloud-FF9900)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)
+  [![Developed by Amey Thakur & Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-0969DA)](https://github.com/Amey-Thakur)
 
   A comprehensive knowledge archive and laboratory portfolio documenting the path to the AWS Certified Cloud Practitioner (CLF-C01) certification, integrating theory, practicals, and assessments.
 
@@ -36,7 +35,7 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 
 </div>
@@ -117,7 +116,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-| <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: |
 
 </div>
@@ -253,7 +252,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
   ### Authors
 
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 
 </div>
@@ -372,7 +371,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
 <div align="center">
 
-  [↑ Back to Top](#readme-top)
+  [↑ Back to Top](#aws-certified-cloud-practitioner--clf-c01)
 
   [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Mini-Project](#miniproject) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
@@ -397,3 +396,4 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
