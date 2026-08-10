@@ -156,7 +156,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-[![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-FF0000)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
 </div>
 
@@ -206,8 +206,8 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-[![Certification](https://img.shields.io/badge/Certification-Course_on_Cloud-gold?style=flat)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg)
-[![Progress](https://img.shields.io/badge/Course-Progress-blue?style=flat)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
+[![Certification](https://img.shields.io/badge/Certification-Course_on_Cloud-FFD600?style=flat)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Certification%20Course%20on%20Cloud.jpg)
+[![Progress](https://img.shields.io/badge/Course-Progress-1DE9B6?style=flat)](Assessments/Honeywell%20-%20ICT%20Academy%20(Certification%20Course%20on%20Cloud)/Course%20Progress.jpg)
 
 </div>
 
@@ -291,8 +291,8 @@ This section highlights a specialized implementation using **Amazon Lex**, demon
 
 <div align="center">
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Amey%20Thakur-red?style=flat&logo=youtube)](https://www.youtube.com/@ameythakur)
-[![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-blue?style=flat&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Amey%20Thakur-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@ameythakur)
+[![Playlist](https://img.shields.io/badge/Playlist-AWS_CLF--C01-E62117?style=flat&logo=youtube)](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)
 
 </div>
 
