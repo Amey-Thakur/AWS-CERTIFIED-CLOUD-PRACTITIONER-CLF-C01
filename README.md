@@ -82,6 +82,11 @@ As a computer engineer, understanding cloud computing is crucial for developing 
 > [!TIP]
 > **Learning Path**: The repository is structured to follow a progressive learning path. Begin with the **Course Materials** for theoretical grounding, followed by **Mega's Notes** for conceptual depth, before proceeding to the **Practicals** and **Assessments** for hands-on verification.
 
+> [!IMPORTANT]
+> **Companion Guide — [AWS Cloud Computing Resources](AWS%20Cloud%20Computing%20Resources.pdf)**
+>
+> A sixteen-page A4 guide that indexes this repository alongside [Cloud Computing Lab (CSL803)](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB): the certification study material, the laboratory experiments and the recorded video lessons, with every file linked and every link tested before release.
+
 ---
 
 <!-- REFERENCE BOOKS -->
