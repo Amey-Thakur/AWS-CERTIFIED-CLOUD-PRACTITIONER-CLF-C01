@@ -92,6 +92,8 @@ As a computer engineer, understanding cloud computing is crucial for developing 
 > **Companion Guide: [AWS Cloud Computing Resources](AWS%20Cloud%20Computing%20Resources.pdf)**
 >
 > The whole cloud path in one document: what to study for the AWS Cloud Practitioner exam, the laboratory experiments in the order they were done, and the video lessons that walk through them. It covers this repository and [Cloud Computing Lab (CSL803)](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) together, and every entry opens the file it names, so you can start wherever you need to.
+>
+> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](AWS%20Cloud%20Computing%20Resources.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-FF9900?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01/raw/main/AWS%20Cloud%20Computing%20Resources.pdf)
 
 This collection includes **comprehensive reference materials** covering all major topics:
 
