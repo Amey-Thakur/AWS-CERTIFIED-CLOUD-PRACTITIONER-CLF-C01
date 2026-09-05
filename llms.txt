@@ -1,0 +1,36 @@
+# AWS Certified Cloud Practitioner | CLF-C01
+
+> AWS CERTIFIED CLOUD PRACTITIONER (AWS CLF-C01)
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VIII
+Licence: CC BY 4.0, attribution required
+Repository created: 15 January 2022
+Work dated: 21 January 2022
+
+## What is in this repository
+
+- Assessments, 19 files
+- Course Materials, 50 files
+- Lab Work, 47 files
+- MEGA NOTES, 10 files
+- Mega, 14 files
+- Mini-Project, 2 files
+- Source Code, 1 file
+- docs, 1 file
+
+## Subject terms
+
+aws, aws-certification, aws-clf-c01, aws-lex, cloud-computing,
+cloudformation, computer-engineering, computer-science, ec2, engineering,
+honeywell, rds, s3, university-of-mumbai, vpc
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://www.youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

@@ -11,3 +11,7 @@ title: "AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01"
 version: 1.0.0
 date-released: 2022-01-21
 url: "https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01"
+identifiers:
+  - type: other
+    value: "2022-01-15"
+    description: "Date this repository was created on GitHub."
